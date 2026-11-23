@@ -43,3 +43,22 @@ Crops are built into engine.py: t1 is full-frame 1080p; t2 is letterboxed.
 - PUBLISH ONLY AFTER Mohamed replies "approve week" to that batch.
 - The vidIQ free plan allows 3 YouTube uploads per day; the limit resets at 08:00 UTC. Publish TikTok and Instagram at once. Send YouTube destinations 3 per day using `send_later` reminders at 08:10 UTC, in slot order.
 - If he approves late and a slot has already passed, move that video to the end of the week and tell him.
+
+## Clipping campaigns (Content Rewards, joined 23 Nov 2026 as "GTA6 Uncovered")
+Payouts only count after submitting each post's link on contentrewards.com (Submit clip). Owner approves posts as usual.
+
+### 1) Whethan & DEV - Bass Down Low (GTA VI) - $1 per 1K views, max $150/clip, ends 31 Dec
+- Brief: https://creatorbrief.artistinfluence.com/brief/xihujCHy4ZebW3plgeK2 (gameplay clip repo in Drive, 105 clips sorted by lane)
+- TikTok + Instagram only. 20-60 s (aim 20+), vertical, hook in first 2 s, big change at +0:03, cut on the bass.
+- MUST use the official "Bass Down Low" sound added inside the app (TikTok start 0:00, Instagram 0:00). So export the edit SILENT and the owner (or Chrome on TikTok Studio) adds the sound. API posting cannot attach it.
+- One lane per edit: Chases & Getaways / Leonida Nights / Chaos & Fails / Graphics Flex (GTA 6 vs real Miami or GTA 5).
+- Max one short line of text. Caption must include @whethan #GTAVI #GTA #BassDownLow. English. Likes + comments on. Never say "out now". No gore.
+- Don't reuse the same clip across accounts. 1%+ like rate needed.
+
+### 2) GTA 6 x GTA Clipper Tool - $0.70 per 1K views, TikTok + YouTube Shorts
+- Rules: https://docs.google.com/document/d/1vkMGyT6ToXcsBjj2RofrpdJVKIpxgymTG44LMTwxzWQ/edit
+- Footage: https://drive.google.com/drive/folders/14fw6Ow0X_xK_L7ikwuJ8udmKNikRQXgR
+- A video ABOUT GTA Clipper (a clipping tool) with our own hook and voice. Reposting their examples gets rejected.
+- Description must contain gtaclipper.com. Hashtags: #gta6 #gta6clipping #clipping #makemoney #gtaclipper. Keep the post up for 60 days. At least 50% of views must come from US/UK/CA/AU.
+- The owner must join their Discord first (discord.gg/gtaclipper). It is a paid promotion, so set TikTok brandContent=true and disclose "paid partnership" on YouTube.
+- Keep these posts off the main YouTube channel's normal style. Max 1 per week, so the channel stays GTA-news-first.
