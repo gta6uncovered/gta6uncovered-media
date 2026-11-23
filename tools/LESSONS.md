@@ -13,6 +13,8 @@ Treat "evidence" lines as weak until we have 7+ new-style videos with retention 
 - Sources on screen; fresh news first (decays in 2-3 days).
 
 ## Stop doing
+- Posting to TikTok without checking delivery: 001-003 all 0 views after 1-2 days while YouTube got 249-1,292.
+  Fix the account (warm it in the phone app, check Account status) before judging any TikTok content.
 - Map/infographic-only visuals with no real footage (001-003; owner found them "not attractive").
 - 26-34 s length. 001-003 ran 26-34 s; new batch is 18-21 s. Stay at 15-21 s.
 - Generic "list" titles ("in 6 numbers", "in 30 seconds") with no tension: lowest views and likes.
@@ -29,4 +31,4 @@ Treat "evidence" lines as weak until we have 7+ new-style videos with retention 
 
 ## Daily log
 - 2026-11-23: seed file. Posted so far: 001-003 (old style). 004-010 scheduled 24-27 Nov.
-- 2026-11-23 (learning run): YT live 3 Shorts = 2,754 views total (best: regions-in-30s 1,292; 003 99-vs-5.6 1,213, best like rate). TikTok 0 live, IG 0 live; 004-010 scheduled, 0 failed. YT Analytics retention not yet available; IG insights token expired.
+- 2026-11-23 (learning run): YT live 3 Shorts = 2,754 views total (best: 002 regions 1,292; 003 99-vs-5.6 1,213, best like rate). TikTok 001-003 = 0 views each (account may be restricted/unwarmed), IG 0 live; 004-010 scheduled, 0 failed. YT Analytics retention not yet available; IG insights token expired.
