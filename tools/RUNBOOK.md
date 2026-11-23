@@ -62,3 +62,10 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
 - Description must contain gtaclipper.com. Hashtags: #gta6 #gta6clipping #clipping #makemoney #gtaclipper. Keep the post up for 60 days. At least 50% of views must come from US/UK/CA/AU.
 - The owner must join their Discord first (discord.gg/gtaclipper). It is a paid promotion, so set TikTok brandContent=true and disclose "paid partnership" on YouTube.
 - Keep these posts off the main YouTube channel's normal style. Max 1 per week, so the channel stays GTA-news-first.
+
+## Hook and outlier rules (our own notes, learned from studying the open-source "YouTube Agent Skill" idea, 23 Nov 2026)
+- Write 5 candidate hooks per video and pick the strongest. Score each on 5 things: specific (a real number or a name), about the viewer ("you"), stakes (lose / never / before), an open question (why / but / until), and no filler words ("insane", "crazy", "guys", "today"). The weakest of the five counts most.
+- Hook formulas that fit GTA 6 news shorts: The Statistic (a verified number + the consequence), The Comparison (X vs Y), The Reveal (a hidden fact), The Warning (don't buy / don't do X yet), The Question (an unresolved debate), Before & After, The Impossible Claim (only when it is true and sourced).
+- Confirm the title or thumbnail promise in the first sentence. One idea per video.
+- Outlier research: rank other creators' videos by views divided by that channel's median views (2x or more = outlier), never by raw views. Copy the FORMAT, never the footage.
+- Retention: name the single biggest drop point (hook leak in the first 3 s, a cliff, or a slow slide) and make ONE change per week.
