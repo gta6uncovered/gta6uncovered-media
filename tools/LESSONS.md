@@ -6,7 +6,7 @@ Treat "evidence" lines as weak until we have 7+ new-style videos with retention 
 ## Doing more of
 - Contradiction/comparison hooks in the title: "Critics gave GTA 6 a 99. Players gave it a 5.6" got 1,213 views and 9 likes
   (best like rate, 0.74%) vs "GTA 6 in 6 numbers" 249 views, 1 like. Specific numbers that clash beat a vague list.
-- Posting in a fixed slot: 003 (Slot A, 7 PM UAE) did ~5x the off-slot 9 PM-UTC post (249). Keep Slot A / Slot B only.
+- Slot is NOT yet proven: 003 (7 PM UAE) 1,213 and regions (10:45 AM UAE) 1,292 did similar; only the 1 AM UAE post (249) lagged. Keep Slot A / B and measure.
 - Hook with a number or curiosity gap in the first 1-2 s; the first words are the payoff tease.
 - Real trailer footage, a cut every ~1.2 s, a sound for every visual change, words popping in captions.
 - Snowball: fact -> "then" -> "but then" -> big number -> question. End on a debate question cut hard so it loops.
@@ -29,4 +29,4 @@ Treat "evidence" lines as weak until we have 7+ new-style videos with retention 
 
 ## Daily log
 - 2026-11-23: seed file. Posted so far: 001-003 (old style). 004-010 scheduled 24-27 Nov.
-- 2026-11-23 (learning run): YT live 3 Shorts = 2,754 views total (best: 001 regions 1,292; 003 99-vs-5.6 1,213, best like rate). TikTok 0 live, IG 0 live; 004-010 scheduled, 0 failed. YT Analytics retention not yet available; IG insights token expired.
+- 2026-11-23 (learning run): YT live 3 Shorts = 2,754 views total (best: regions-in-30s 1,292; 003 99-vs-5.6 1,213, best like rate). TikTok 0 live, IG 0 live; 004-010 scheduled, 0 failed. YT Analytics retention not yet available; IG insights token expired.
