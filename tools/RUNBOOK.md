@@ -45,6 +45,7 @@ Crops are built into engine.py: t1 is full-frame 1080p; t2 is letterboxed.
 - If he approves late and a slot has already passed, move that video to the end of the week and tell him.
 
 ## Clipping campaigns (Content Rewards, joined 23 Nov 2026 as "GTA6 Uncovered")
+STATUS 23 Nov: BOTH PARKED. Owner cannot add in-app sounds by phone, and decided not to join the logo campaigns for now. Do NOT make clips for them. Revisit at the 10 Dec checkpoint. Then, only suggest campaigns that run fully automatically (no in-app sound, no manual steps).
 Payouts only count after submitting each post's link on contentrewards.com (Submit clip). Owner approves posts as usual.
 
 ### 1) Whethan & DEV - Bass Down Low (GTA VI) - $1 per 1K views, max $150/clip, ends 31 Dec
