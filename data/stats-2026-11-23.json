@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-23",
+  "taken_at_utc": "2026-11-23T18:30:00Z",
+  "window": "2026-11-09 to 2026-11-23",
+  "youtube": {
+    "channel": "UCAgYSIVaPN90qmxf5ePCN_w",
+    "analytics_note": "YouTube Analytics (retention, avg view %, subs) returned no rows yet (normal 1-2 day lag). Public counters below.",
+    "public": [
+      {"id": "zOPKVeok2QI", "n": "001?", "title": "Every GTA 6 region in 30 seconds", "published_utc": "2026-11-22T06:45:34Z", "slot": "~10:45 AM UAE (off-slot)", "length_s": 33, "style": "map/infographic", "hook": "list/overview", "views": 1292, "likes": 6, "comments": 0},
+      {"id": "FYlyPIjeGlc", "n": "003", "title": "Critics gave GTA 6 a 99. Players gave it a 5.6", "published_utc": "2026-11-22T15:00:16Z", "slot": "A 7 PM UAE", "length_s": 26, "style": "infographic", "hook": "comparison/contradiction", "views": 1213, "likes": 9, "comments": 0},
+      {"id": "s9lOCe665iU", "n": "002?", "title": "GTA 6 in 6 numbers", "published_utc": "2026-11-21T21:04:17Z", "slot": "~1 AM UAE (off-slot)", "length_s": 34, "style": "infographic", "hook": "list", "views": 249, "likes": 1, "comments": 0}
+    ],
+    "scheduled_private": [
+      {"id": "nTFti_Uv5zE", "n": "006", "title": "GTA 6 just TRIPLED the streaming record", "publish_at": "2026-11-24T01:00:00Z", "length_s": 21},
+      {"id": "jbyWwmRauXA", "n": "004", "title": "This GTA 6 trailer broke the internet", "publish_at": "2026-11-24T15:00:00Z", "length_s": 18},
+      {"id": "ranhnEFyqAo", "n": "010", "title": "There's NO DISC in the GTA 6 box", "publish_at": "2026-11-25T01:00:00Z", "length_s": 19}
+    ]
+  },
+  "tiktok": {"note": "No vidIQ posts live yet; 7 scheduled 24-27 Nov. Handle unknown (username null), so profile videos not fetched."},
+  "instagram": {"account": "gta6uncoveredyt", "note": "Insights unavailable: owner_token_inactive (insights access expired). Publishing still reports canPublish=true. 7 reels scheduled 24-27 Nov."},
+  "posts_failed": 0,
+  "vidiq_credits": {"start": 110, "used": 20}
+}
