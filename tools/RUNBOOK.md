@@ -71,7 +71,8 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
 - Outlier research: rank other creators' videos by views divided by that channel's median views (2x or more = outlier), never by raw views. Copy the FORMAT, never the footage.
 - Retention: name the single biggest drop point (hook leak in the first 3 s, a cliff, or a slow slide) and make ONE change per week.
 
-## Instagram status (24 Nov 2026)
+## Instagram status (24 Nov 2026): PERMANENTLY DISABLED (appeal failed). Never post to Instagram account 30103538905917108 again. Remove it from every draft.
+## (history below)
 - The Instagram account was suspended ("doesn't follow Community Standards"). Mohamed submitted an appeal with a selfie on 24 Nov. All scheduled IG posts were cancelled.
 - Until vidiq_social_account_list shows Instagram with canPublish=true, leave Instagram OFF all drafts. Never retry repeatedly.
 - After reinstatement, ramp up slowly to look human: week 1 = 1 Reel/day at 7 PM UAE, varied captions, no hashtag stuffing (3-5 tags), no near-duplicate videos. Then increase to 2/day only if there are no warnings.
@@ -83,3 +84,9 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
    - SERIES + CLIFFHANGER. Split strong topics into Part 1 / Part 2 (e.g. "Real Cost of Vice City, Part 1: the skyline"), end on an open question, and post Part 2 within 24 h. "Part X" in the title makes viewers follow.
    - Emotion and story beat information. Wrap facts in a mini-story (who, what was at stake, the twist).
 3. SECOND-NICHE CANDIDATE for the 10 Dec checkpoint: an AI-character story series in MALAYALAM for Facebook Reels. Facebook Content Monetization is open to UAE creators and supports Malayalam; Mohamed is a native speaker from Kerala. Needs AI image-to-video generation. Cost-check free or cheap options before proposing. Our English GTA pipeline stays as is.
+
+## Facebook Page (created 24 Nov 2026 from Mohamed's own profile, Page name "GTA6 Uncovered")
+- Connected to vidIQ as FACEBOOK_PAGES (get the platformAccountId from vidiq_social_account_list).
+- It replaces Instagram. Facebook Content Monetization is open to UAE creators (invite-only), so Facebook is a PAYING platform for us, unlike TikTok.
+- Ramp-up, learned from the Instagram ban: weeks 1-2 = max 1 Reel/day at 7 PM UAE, varied captions, 3-5 hashtags, originality-first (Real Cost videos first). Raise to 2/day only after 2 clean weeks.
+- Never send near-identical videos in a row to the Page. Rotate formats.
