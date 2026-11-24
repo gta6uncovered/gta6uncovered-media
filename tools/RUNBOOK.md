@@ -70,3 +70,9 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
 - Confirm the title or thumbnail promise in the first sentence. One idea per video.
 - Outlier research: rank other creators' videos by views divided by that channel's median views (2x or more = outlier), never by raw views. Copy the FORMAT, never the footage.
 - Retention: name the single biggest drop point (hook leak in the first 3 s, a cliff, or a slow slide) and make ONE change per week.
+
+## Instagram status (24 Nov 2026)
+- The Instagram account was suspended ("doesn't follow Community Standards"). Mohamed submitted an appeal with a selfie on 24 Nov. All scheduled IG posts were cancelled.
+- Until vidiq_social_account_list shows Instagram with canPublish=true, leave Instagram OFF all drafts. Never retry repeatedly.
+- After reinstatement, ramp up slowly to look human: week 1 = 1 Reel/day at 7 PM UAE, varied captions, no hashtag stuffing (3-5 tags), no near-duplicate videos. Then increase to 2/day only if there are no warnings.
+- If the appeal fails, the account is permanently disabled and cannot be appealed again. Then propose a fresh Instagram account to Mohamed (it must be his own sign-up, with a 1-2 week manual warm-up before any automated posting), or drop Instagram and use Facebook Reels or YouTube instead.
