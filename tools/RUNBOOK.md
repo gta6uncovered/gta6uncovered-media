@@ -76,3 +76,10 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
 - Until vidiq_social_account_list shows Instagram with canPublish=true, leave Instagram OFF all drafts. Never retry repeatedly.
 - After reinstatement, ramp up slowly to look human: week 1 = 1 Reel/day at 7 PM UAE, varied captions, no hashtag stuffing (3-5 tags), no near-duplicate videos. Then increase to 2/day only if there are no warnings.
 - If the appeal fails, the account is permanently disabled and cannot be appealed again. Then propose a fresh Instagram account to Mohamed (it must be his own sign-up, with a 1-2 week manual warm-up before any automated posting), or drop Instagram and use Facebook Reels or YouTube instead.
+
+## Reference reels Mohamed shared (24 Nov 2026), and lessons to apply
+1. Facebook, "Ash and Claude" (AI VTuber setup, 2.5K reactions, ~1K comments): the caption says "Comment LIVE and I'll send you the guide". A comment-keyword CTA turns viewers into commenters, and comments are a top ranking signal. APPLY: end some videos with "Comment COST and I'll pin the full breakdown" (pin the answer as a reply; never promise DMs we can't send).
+2. Instagram, @naan_babybro "Greedy brother Part 1" (AI-made toddler characters, a Malayalam/Tamil story series): 452.9K likes and 12.5K comments in 1 day, and most comments say "Part 2". APPLY:
+   - SERIES + CLIFFHANGER. Split strong topics into Part 1 / Part 2 (e.g. "Real Cost of Vice City, Part 1: the skyline"), end on an open question, and post Part 2 within 24 h. "Part X" in the title makes viewers follow.
+   - Emotion and story beat information. Wrap facts in a mini-story (who, what was at stake, the twist).
+3. SECOND-NICHE CANDIDATE for the 10 Dec checkpoint: an AI-character story series in MALAYALAM for Facebook Reels. Facebook Content Monetization is open to UAE creators and supports Malayalam; Mohamed is a native speaker from Kerala. Needs AI image-to-video generation. Cost-check free or cheap options before proposing. Our English GTA pipeline stays as is.
