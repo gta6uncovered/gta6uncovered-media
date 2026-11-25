@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-25",
+  "taken_at_utc": "2026-11-25T18:30:00Z",
+  "window": "2026-11-11 to 2026-11-25",
+  "youtube": {
+    "channel": "UCAgYSIVaPN90qmxf5ePCN_w",
+    "public": [
+      {"n": "010", "id": "ranhnEFyqAo", "title": "There's NO DISC in the GTA 6 box", "published_utc": "2026-11-25T01:00:27Z", "slot": "B", "length_s": 19, "topic": "viewer-impact (buying)", "views": 1079, "likes": 8, "comments": 0, "age_h": 17.5, "vph": 63.5},
+      {"n": "007", "id": "lhY0-mJTfpU", "title": "Lucia was in PRISON before GTA 6 starts", "published_utc": "2026-11-25T15:00:30Z", "slot": "A", "length_s": 18, "topic": "character lore", "views": 41, "likes": 1, "comments": 0, "age_h": 3.5},
+      {"n": "004", "id": "jbyWwmRauXA", "title": "This GTA 6 trailer broke the internet", "slot": "A", "length_s": 18, "topic": "records", "views": 443, "likes": 5, "comments": 0, "age_h": 27.5},
+      {"n": "006", "id": "nTFti_Uv5zE", "title": "GTA 6 just TRIPLED the streaming record", "slot": "B", "length_s": 21, "topic": "records", "views": 194, "likes": 2, "comments": 0, "age_h": 41.5},
+      {"n": "003", "id": "FYlyPIjeGlc", "title": "Critics gave GTA 6 a 99. Players gave it a 5.6", "length_s": 26, "views": 1217, "likes": 9, "comments": 0},
+      {"n": "002", "id": "zOPKVeok2QI", "title": "Every GTA 6 region in 30 seconds", "length_s": 33, "views": 1311, "likes": 6, "comments": 0},
+      {"n": "001", "id": "s9lOCe665iU", "title": "GTA 6 in 6 numbers", "length_s": 34, "views": 252, "likes": 1, "comments": 0}
+    ],
+    "total_public_views": 4537,
+    "delta_vs_2026_11_24": 1271,
+    "scheduled_private": [
+      {"n": "008", "id": "NIwxLXyNCq8", "publish_at": "2026-11-26T01:00:00Z"},
+      {"n": "009", "id": "4wnyGrrnFmA", "publish_at": "2026-11-26T15:00:00Z"},
+      {"n": "005", "id": "PPnS_7IsC4w", "note": "uploaded 25 Nov 08:11 UTC, scheduled"}
+    ]
+  },
+  "tiktok": {
+    "handle": "@gta6uncoveredyt",
+    "videos": [
+      {"n": "007", "id": "7712124325981261076", "posted": "2026-11-25 15:01 UTC (A)", "views": 166, "likes": 0, "comments": 0, "shares": 1, "saves": 1},
+      {"n": "010", "id": "7711907576207674645", "posted": "2026-11-25 01:00 UTC (B)", "views": 138, "likes": 0, "comments": 0},
+      {"n": "004", "id": "7711755078994070805", "posted": "2026-11-24 15:08 UTC (A)", "views": 621, "likes": 8, "comments": 0, "shares": 1},
+      {"n": "006", "id": "7711536719425785109", "views": 0},
+      {"n": "003", "id": "7710964903611272466", "views": 0},
+      {"n": "002", "id": "7710885053328362760", "views": 0},
+      {"n": "001", "id": "7710734643976293639", "views": 0}
+    ],
+    "total_views": 925,
+    "scheduled": ["008 26 Nov 01:00", "009 26 Nov 15:00", "005 27 Nov 01:00"]
+  },
+  "facebook_page": {
+    "platformAccountId": "1471377252729945",
+    "posts": [{"n": "007", "url": "https://www.facebook.com/reel/1657854529142585", "posted": "2026-11-25 15:01 UTC", "stats": "not available via vidIQ"}],
+    "scheduled": ["009 26 Nov 15:00", "005 27 Nov 15:00"]
+  },
+  "instagram": "permanently disabled; no new attempts",
+  "posts_failed_new": 0,
+  "comments_total": 0,
+  "copyright_claims": "none visible (restrictions report not run)",
+  "vidiq_credits": {"start": 70, "used": 10, "end": 60}
+}
