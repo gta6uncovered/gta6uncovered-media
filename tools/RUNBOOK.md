@@ -102,3 +102,9 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
 - Trailer windows: always pick start times from a 1 fps sheet and check brightness; t1 15-18 s, t3 15-17 s, 22-25 s and 72+ s have title cards; t2 0-7 s is black/fade.
 - Rules: hook confirms the title in the first 15 s; clips max ~5 s each; every cost card shows ESTIMATE and source; 8 min+ for mid-rolls; chapters + sources in the description; thumbnail = big object + $ figure + max 3 words, uploaded with vidiq_upload_image and set as thumbnailImageId.
 - engine.py shots may now be (file, start, max_seconds): the cut is slow-mo stretched inside the clean window instead of running into a title card.
+
+## Communication rule (26 Nov 2026)
+Mohamed chats ONLY in the main control chat. Batch and learning runs must:
+- save every draft (postId, revision, per-platform publicationIds, slot time) to tools/scripts/drafts_YYYY-MM-DD.json and commit it before ending;
+- write anything he must know or answer to tools/ALERTS.md (dated, newest first).
+The main chat's daily 12:15 PM UAE check-in relays the batch to him, collects "approve", publishes, and spreads YouTube uploads 3/day. Batch runs must NOT wait for or expect replies in their own session.
