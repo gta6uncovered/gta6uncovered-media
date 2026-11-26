@@ -63,3 +63,15 @@
    views, ~9% more engagement. Automate: title without "#gta6 #shorts", 3 tags in description. Impact: small, cheap A/B.
 5. Strongest video at Slot B (01:00 UTC = 8 PM ET). Source: 010 and 008, our two best, both at Slot B. Automate: batch planner
    sorts each day's 3 videos by predicted strength and puts #1 at 01:00 UTC. Impact: +20-50% on the lead video (hypothesis).
+
+## From Mohamed's reels, 26 Nov 2026
+### Second-channel candidate C: GTA 6 stream-clips page for paid clipping campaigns (strong)
+- Reel (Faceless Launchpad): OpusClip now plugs into Claude, so you can paste a GTA 6 launch-stream link, get ranked vertical clips with captions and titles, and queue them. It claims a clips channel got 1.6M views on one clip in its first day (unverified).
+- Why it fits: this unblocks the BIG Content Rewards pools we skipped on 23 Nov because we couldn't download Twitch: Reach GTA 6 $20K pool, Kai Cenat $10K pool, Lacy $12.5K, Lauren Hamden $1.50/1K, AsianJeff. Those pay ~$1-2 per 1K views with no follower minimum and no in-app sound, so it is fully automatic, and it pays UAE creators (unlike TikTok).
+- Tool: the OpusClip connector exists in the Claude directory (not installed). Twitch import needs OpusClip Pro at $29/month (300 source minutes, about 5 h of stream); Starter at $15 covers YouTube links only.
+- Must run on SEPARATE new clip accounts (TikTok + YouTube Shorts; Facebook Page optional). Never put stream clips on GTA6 Uncovered, or the reused-content risk kills its monetization. Account sign-ups are Mohamed's.
+- Math: 1M clip views/month at about $1/1K = about $1,000. Campaign budgets cap and move fast, so check live budgets before each batch.
+### Research method upgrade (Scott Smith reel, 804 reactions)
+- Find ANOMALIES: channels under 100K subs with videos at 1M+ views in the last 60 days. That proves the topic and packaging, not channel size.
+- Dissect their top 10 recent videos: core topic, title template, emotional trigger. Then generate our titles on the same proven template (never copy content).
+- Apply in the daily hunt (vidiq_outliers on Sundays; vidiq_youtube_search + views/subs ratio on other days).
