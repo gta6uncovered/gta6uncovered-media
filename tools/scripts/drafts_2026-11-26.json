@@ -1,97 +1,99 @@
 {
-"011": {
-"postId": "e47353a7-8076-4009-a50f-701d8a23c084",
-"rev": "de59959b-edb0a4bd",
-"at": "2026-11-28T01:00Z",
-"yt": "e870d8c8-1dc0-40b1-bf79-deb9c3719f0d",
-"tt": "61023920-73e8-4ffb-bde3-cf5262520495"
-},
-"012": {
-"postId": "5e6310df-9ed3-482b-bc27-b58acd01b2a6",
-"rev": "07389d93-a5e387ea",
-"at": "2026-11-28T09:00Z",
-"yt": "f5b300dd-564a-4b94-b622-52837769dead",
-"tt": "50e27b1c-2e6b-4096-bb72-7c25b28eed7a"
-},
-"013": {
-"postId": "dc138a22-d271-477e-b004-3eb9ff560e3a",
-"rev": "2800a32a-7839b32c-79ce4684",
-"at": "2026-11-28T15:00Z",
-"yt": "86fc5793-f298-407b-bf80-4e49eb189fbf",
-"tt": "88698487-785f-4be1-8afc-2db5cf589e34",
-"fb": "7b02c74d-a56d-47ca-a054-43cd2aa1d47d"
-},
-"014": {
-"postId": "bcb039ec-e0e1-48b2-bf46-f3526d11f70e",
-"rev": "a6524171-b00e054c",
-"at": "2026-11-29T01:00Z",
-"yt": "1a6bf5e9-208e-45fc-894e-cb1f1549e5c1",
-"tt": "980ec03b-2feb-425d-99c7-d2ad3fe58f75"
-},
-"015": {
-"postId": "c445359a-c586-4058-b5bb-a0d177fe85c2",
-"rev": "e61e6048",
-"at": "2026-11-29T09:00Z",
-"tt": "5f1a90e8-c767-424b-88e4-a07dafbf4fd5"
-},
-"016": {
-"postId": "d7e6eb1b-a3bf-4184-9e9a-40fe54d7799b",
-"rev": "a083bc1c-bba1e37a-d3387a17",
-"at": "2026-11-29T15:00Z",
-"yt": "a0fb6247-5e74-4060-87dd-b1c2369abe3d",
-"tt": "45536e7d-3a93-4903-a2ca-ebfc34436820",
-"fb": "0a3349de-5720-4ae5-a204-dbfef1320cab"
-},
-"017": {
-"postId": "f0947a50-070d-48f0-8757-5c3cfd140c43",
-"rev": "32510288-72067cee",
-"at": "2026-11-30T01:00Z",
-"yt": "016c2047-a281-40ae-bbe6-002872a2aa43",
-"tt": "acb9a828-e78b-4c29-9899-c2dbb7781af9"
-},
-"018": {
-"postId": "254fe951-a5ac-48c8-92da-0083e59952c5",
-"rev": "3eb63095-8cc68e4c",
-"at": "2026-11-30T09:00Z",
-"yt": "4381eee6-a6f6-47cf-9b51-e50f3672b32e",
-"tt": "c9ec732b-b76c-4f67-93d0-759cef5c0f1c"
-},
-"019": {
-"postId": "dd824d6f-02c5-429f-b582-b48458fe2eac",
-"rev": "3474f309-6006b5fe-ccf1faf5",
-"at": "2026-11-30T15:00Z",
-"yt": "0079a147-d27a-4232-bd96-2f3fe49d883d",
-"tt": "4a0aabbd-c9e4-4613-b4d1-5991a59d28d4",
-"fb": "f1d1e75d-f3e4-4602-b8dd-74a2e330ad90"
-},
-"020": {
-"postId": "af10edc7-4372-4341-a5d8-573f471a3b1d",
-"rev": "359597e3-986f6d24",
-"at": "2026-12-01T01:00Z",
-"yt": "93556cf7-0f80-4614-8834-b9649739b83e",
-"tt": "af2362d8-2fe0-4f21-94fa-937992bd1c31"
-},
-"021": {
-"postId": "b0402b65-309d-4638-adbd-741d3d998872",
-"rev": "726f676a-a556e05c",
-"at": "2026-12-01T09:00Z",
-"yt": "bdf2d884-4bb4-4910-8200-2e2b1761ad1f",
-"tt": "ac7c754c-bd99-4dac-9839-bfcaf36e62d8"
-},
-"022": {
-"postId": "fdd87c08-a4ee-4752-8651-06c9598a266a",
-"rev": "1a8291e5-88be95e7-9f8b5537",
-"at": "2026-12-01T15:00Z",
-"yt": "0a156a0b-38d3-4475-b014-8a5813666c9a",
-"tt": "b343f3a4-fdbd-4c1d-8e08-07f08cb3cc27",
-"fb": "04059635-9396-451a-b883-450521194577"
-},
-"L01": {
-"postId": "ca9d398e-6218-4ac5-90be-46603413b2f4",
-"rev": "3fa56af2",
-"at": "2026-11-29T14:00Z",
-"yt": "8f121d1c-c045-4f1c-a641-d82f9981678b",
-"thumb": "bfc2cf7e-ebd2-4e20-81a0-dd54a364df75",
-"upload": "f5f3aba2-8b84-4fb7-8683-b2ed50839de7"
-}
+ "011": {
+  "postId": "e47353a7-8076-4009-a50f-701d8a23c084",
+  "rev": "de59959b-edb0a4bd",
+  "at": "2026-11-28T01:00Z",
+  "yt": "e870d8c8-1dc0-40b1-bf79-deb9c3719f0d",
+  "tt": "61023920-73e8-4ffb-bde3-cf5262520495"
+ },
+ "012": {
+  "postId": "5e6310df-9ed3-482b-bc27-b58acd01b2a6",
+  "rev": "07389d93-a5e387ea",
+  "at": "2026-11-28T09:00Z",
+  "yt": "f5b300dd-564a-4b94-b622-52837769dead",
+  "tt": "50e27b1c-2e6b-4096-bb72-7c25b28eed7a"
+ },
+ "013": {
+  "postId": "dc138a22-d271-477e-b004-3eb9ff560e3a",
+  "rev": "23103a71-bf4a9abc",
+  "at": "2026-11-28T15:00Z",
+  "yt": "86fc5793-f298-407b-bf80-4e49eb189fbf",
+  "tt": "42a5d02b-8d04-4e9e-9508-a9069247c27b",
+  "fb": "de114870-1d0e-4c48-aeaa-39d3b4ee6feb"
+ },
+ "014": {
+  "postId": "bcb039ec-e0e1-48b2-bf46-f3526d11f70e",
+  "rev": "a6524171-b00e054c",
+  "at": "2026-11-29T01:00Z",
+  "yt": "1a6bf5e9-208e-45fc-894e-cb1f1549e5c1",
+  "tt": "980ec03b-2feb-425d-99c7-d2ad3fe58f75"
+ },
+ "015": {
+  "postId": "c445359a-c586-4058-b5bb-a0d177fe85c2",
+  "rev": "e61e6048",
+  "at": "2026-11-29T09:00Z",
+  "tt": "5f1a90e8-c767-424b-88e4-a07dafbf4fd5"
+ },
+ "016": {
+  "postId": "d7e6eb1b-a3bf-4184-9e9a-40fe54d7799b",
+  "rev": "65d01231-d58b28fd",
+  "at": "2026-11-29T15:00Z",
+  "yt": "a0fb6247-5e74-4060-87dd-b1c2369abe3d",
+  "tt": "45536e7d-3a93-4903-a2ca-ebfc34436820",
+  "fb": "1a6c1fae-429c-4078-9d62-17cef0f1519f"
+ },
+ "017": {
+  "postId": "f0947a50-070d-48f0-8757-5c3cfd140c43",
+  "rev": "32510288-72067cee",
+  "at": "2026-11-30T01:00Z",
+  "yt": "016c2047-a281-40ae-bbe6-002872a2aa43",
+  "tt": "acb9a828-e78b-4c29-9899-c2dbb7781af9"
+ },
+ "018": {
+  "postId": "254fe951-a5ac-48c8-92da-0083e59952c5",
+  "rev": "3eb63095-8cc68e4c",
+  "at": "2026-11-30T09:00Z",
+  "yt": "4381eee6-a6f6-47cf-9b51-e50f3672b32e",
+  "tt": "c9ec732b-b76c-4f67-93d0-759cef5c0f1c"
+ },
+ "019": {
+  "postId": "dd824d6f-02c5-429f-b582-b48458fe2eac",
+  "rev": "3474f309-6006b5fe-ccf1faf5",
+  "at": "2026-11-30T15:00Z",
+  "yt": "0079a147-d27a-4232-bd96-2f3fe49d883d",
+  "tt": "4a0aabbd-c9e4-4613-b4d1-5991a59d28d4",
+  "fb": "f1d1e75d-f3e4-4602-b8dd-74a2e330ad90"
+ },
+ "020": {
+  "postId": "af10edc7-4372-4341-a5d8-573f471a3b1d",
+  "rev": "359597e3-986f6d24",
+  "at": "2026-12-01T01:00Z",
+  "yt": "93556cf7-0f80-4614-8834-b9649739b83e",
+  "tt": "af2362d8-2fe0-4f21-94fa-937992bd1c31"
+ },
+ "021": {
+  "postId": "b0402b65-309d-4638-adbd-741d3d998872",
+  "rev": "726f676a-a556e05c",
+  "at": "2026-12-01T09:00Z",
+  "yt": "bdf2d884-4bb4-4910-8200-2e2b1761ad1f",
+  "tt": "ac7c754c-bd99-4dac-9839-bfcaf36e62d8"
+ },
+ "022": {
+  "postId": "fdd87c08-a4ee-4752-8651-06c9598a266a",
+  "rev": "79b5d90b-7fcada81",
+  "at": "2026-12-01T15:00Z",
+  "yt": "0a156a0b-38d3-4475-b014-8a5813666c9a",
+  "tt": "b343f3a4-fdbd-4c1d-8e08-07f08cb3cc27",
+  "fb": "3add186b-ba67-49be-a0d1-c70fab1d1011"
+ },
+ "L01": {
+  "postId": "ca9d398e-6218-4ac5-90be-46603413b2f4",
+  "rev": "0881e077",
+  "at": "2026-11-29T14:00Z",
+  "yt": "8f121d1c-c045-4f1c-a641-d82f9981678b",
+  "thumb": "bfc2cf7e-ebd2-4e20-81a0-dd54a364df75",
+  "upload": "1c05c84b-5267-4eea-8103-9330910a4391",
+  "note": "v2 without first-person QS claim"
+ },
+ "_status": "Approved by Mohamed 26 Nov (\"approve\", then \"QS-style\"). TikTok/FB scheduled. YouTube 011-013 uploaded 26 Nov; remaining yt go out 3/day via the main-chat check-ins."
 }

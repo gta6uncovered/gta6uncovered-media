@@ -60,3 +60,6 @@ Not found: a Turner & Townsend Miami rate, a luxury-condo build rate, a bridge o
 - The Vice City airport rebuilt from scratch: needs a sourced new-airport benchmark (e.g. a recent US terminal per gate).
 - Jason & Lucia's safehouse vs a real Leonida (Florida) home: Census median home value plus the RLB single-family rate.
 - Vice City vs Dubai: price the same tower with Dubai rates. Needs a cited Dubai rate (Turner & Townsend ICMS or RLB Middle East).
+
+## Wording rule (Mohamed, 26 Nov 2026)
+Use "QS-style estimate". Never "I'm a quantity surveyor", "I price buildings for a living", "a quantity surveyor's estimate" or "checked by a QS", in voice, on screen or in captions. Mohamed does not personally check the numbers.
