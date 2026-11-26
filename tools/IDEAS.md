@@ -82,3 +82,9 @@
 - Mr Secret "Bulk AI video generator / consistent characters" (OmniFlash): 413 likes / 848 comments → comment-for-link bait drives comments 2x likes. Test a "comment GTA for the full list" CTA on FB (no external link promises).
 - GTA 6 viral reels: price ($80) / "buying GTA 6" reactions and GTA-V "clipping moment" pages are posting daily. Price/affordability debate = our winning "viewer-impact" angle.
 - Next nightly automated scan: trig_01X7UqiqTxFp5ENd6FDpcZA9 (21:41 UAE, read-only, his Chrome).
+
+## 2026-11-26 — TikTok warm-up scan (logged in on Chrome "Browser 2")
+- Searched: AI faceless channel, AI video automation, Claude AI, GTA 6.
+- GTA 6 top videos right now (1 day old) are in-game gameplay tricks/strats: "infinite food strat" 377.8K likes, stunts 164.7K, "biggest bank robbery 130K" 64.7K, "Ultimate Edition worth the wait" 93K. Post-launch (19 Nov) demand has moved to "how to / strat / money" tips.
+- Action: test text-card "GTA 6 money/strat" Shorts built from published guides (with a cited source, no reused gameplay footage). Gameplay footage would need our own capture (we have no console), so keep away from reused-content risk.
+- AI niche: "Comment 'edit' to get…" CTA (Kevin Dang 18.6K) again confirms comment-bait CTAs.
