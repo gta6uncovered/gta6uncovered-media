@@ -89,7 +89,7 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
 3. SECOND-NICHE CANDIDATE for the 10 Dec checkpoint: an AI-character story series in MALAYALAM for Facebook Reels. Facebook Content Monetization is open to UAE creators and supports Malayalam; Mohamed is a native speaker from Kerala. Needs AI image-to-video generation. Cost-check free or cheap options before proposing. Our English GTA pipeline stays as is.
 
 ## Facebook Page (created 24 Nov 2026 from Mohamed's own profile, Page name "GTA6 Uncovered")
-- Connected to vidIQ on 24 Nov 2026 as FACEBOOK_PAGES, platformAccountId 1471377252729945. Count the first 2-week ramp from 25 Nov.
+- Connected to vidIQ on 24 Nov 2026 as FACEBOOK_PAGES, platformAccountId 1471377252729945. Count the first 2-week ramp from 25 Nov. Public URL: facebook.com/gta6uncoveredyt (profile id 61596809074624). Profile picture, cover, bio, YouTube + TikTok links and a pinned welcome post were added on 26 Nov.
 - It replaces Instagram. Facebook Content Monetization is open to UAE creators (invite-only), so Facebook is a PAYING platform for us, unlike TikTok.
 - Ramp-up, learned from the Instagram ban: weeks 1-2 = max 1 Reel/day at 7 PM UAE, varied captions, 3-5 hashtags, originality-first (Real Cost videos first). Raise to 2/day only after 2 clean weeks.
 - Never send near-identical videos in a row to the Page. Rotate formats.
