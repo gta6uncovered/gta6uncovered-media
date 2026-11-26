@@ -75,3 +75,10 @@
 - Find ANOMALIES: channels under 100K subs with videos at 1M+ views in the last 60 days. That proves the topic and packaging, not channel size.
 - Dissect their top 10 recent videos: core topic, title template, emotional trigger. Then generate our titles on the same proven template (never copy content).
 - Apply in the daily hunt (vidiq_outliers on Sundays; vidiq_youtube_search + views/subs ratio on other days).
+
+## 2026-11-26 — Feed warm-up scan (FB Page, AI/faceless searches)
+- Searched as the Page: AI faceless channel, Claude AI automation, OpusClip AI clips, AI video generator faceless income, GTA 6 viral.
+- Pattern: "income math" hooks ($500 x 7 = $3,500 / x30 = $15,000) on clipping reels (Rashmi Kumari, OpusClip + YT clips). Money-math overlay = strong hook; test "GTA 6 costs you $X/hour" style math.
+- Mr Secret "Bulk AI video generator / consistent characters" (OmniFlash): 413 likes / 848 comments → comment-for-link bait drives comments 2x likes. Test a "comment GTA for the full list" CTA on FB (no external link promises).
+- GTA 6 viral reels: price ($80) / "buying GTA 6" reactions and GTA-V "clipping moment" pages are posting daily. Price/affordability debate = our winning "viewer-impact" angle.
+- Next nightly automated scan: trig_01X7UqiqTxFp5ENd6FDpcZA9 (21:41 UAE, read-only, his Chrome).
