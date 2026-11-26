@@ -1,0 +1,34 @@
+What would it cost to build Vice City in real life? I'm a quantity surveyor, so I priced it like a real project: real Miami rates, real quantities, and every number on screen. Our estimate: about $653 billion.
+
+Comment COST and I'll pin the full breakdown.
+
+CHAPTERS
+{CHAPTERS}
+
+THE METHOD (estimate, late-2025 prices, hard cost + 20% fees)
+- Homes: 1,104,711 Miami-Dade homes x $302K average rebuild cost = $333.6B (cross-check: 1.33B sq ft x $240/sq ft = $318B)
+- Shops, offices, warehouses: 2025 appraised value used as rebuild cost = $133.6B (includes land, so on the high side)
+- Roads: 5,500 miles x $11.09M per mile (FDOT urban arterial) = $61.0B
+- Airport, port, stadium, bridge (minimum values): $15.7B
+- Subtotal $543.9B + 20% design, fees and management = $652.7B
+Assumptions: Vice City is treated as Miami-Dade County. Average home 1,200 sq ft. All county roads at arterial rate. 20% fees. Land is shown separately. Excluded: water/sewer, power, schools, hospitals, government buildings, parks, canals, expressways.
+
+SOURCES
+- RLB Quarterly Construction Cost Report, Q4 2025 (Miami row): https://www.rlb.com/wp-content/uploads/sites/4/2026/01/Q4-2025_QCR.pdf
+- RLB Construction Cost Report East, Q2 2026 (Miami +4.99%/yr): https://www.rlb.com/americas/insight/rlb-construction-cost-report-east-q2-2026/
+- Cotality 2026 Hurricane Risk Report ($616B reconstruction cost value, 2.04M Miami-metro homes): https://www.businesswire.com/news/home/20260519879619/en/Metropolitan-New-York-ranks-as-Americas-largest-hurricane-exposure-zone-Cotality-report-finds
+- US Census QuickFacts (Miami-Dade area, population, housing units): https://www.census.gov/quickfacts/fact/table/miamicityflorida,miamidadecountyflorida/PST045221
+- Miami-Dade Property Appraiser, 2025 and 2026 preliminary rolls: https://www.miamidadepa.gov/resources-pa/library/reports/certification/2026-preliminary-roll-change-by-property-type.pdf
+- FDOT Cost Per Mile Models: https://www.fdot.gov/fpo/fpc/reports/costpermile
+- Miami-Dade Public Works (roads): https://www.miamidade.gov/publicworks/roads-bridges-canals.asp
+- Signature Bridge cost (Miami Today, Aug 2025): https://www.miamitodaynews.com/2025/08/13/signature-bridge-project-delayed-two-more-years-costs-climb/
+- MIA modernization plan (Construction Dive, Mar 2026): https://www.constructiondive.com/news/miami-international-airport-expansion-plan/813869/
+- PortMiami capital program (Miami-Dade FY26-27 budget): https://www.miamidade.gov/resources/budget/fy-26-27/proposed/seaport.pdf
+- Highmark Stadium cost (ESPN, Jun 2026): https://www.espn.com/nfl/story/_/id/49156845/buffalo-bills-highmark-stadium-ribbon-cutting-ceremony
+- Brickell land sale (Bisnow, Dec 2025): https://www.bisnow.com/news/south-florida/capital-markets/oak-row-equities-taps-oko-group-tyko-capital-to-close-on-520m-brickell-land-deal-132519
+- Miami skyscraper count: https://en.wikipedia.org/wiki/List_of_cities_in_the_United_States_with_the_most_skyscrapers
+- GTA 6 price: https://beebom.com/gta-6-black-friday-sale-2026-deals/
+
+This is an estimate for entertainment and education, not a tender price or financial advice. Official Rockstar Games trailer footage used in short excerpts for commentary; unofficial fan channel, not affiliated with Rockstar Games or Take-Two. Narration is AI-voiced; research, rates and maths by a practising quantity surveyor.
+
+#GTA6 #ViceCity #RealCost
