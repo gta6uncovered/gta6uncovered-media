@@ -17,6 +17,15 @@
 - Risks: AI labels required; Meta reduces reach for unoriginal/reposted content; Malayalam TTS quality must be checked;
   character consistency across episodes; vendor earnings claims (theprint BrandIt) are sponsored and unverified.
 - TODO before 30 Nov: test 2 Malayalam TTS voices; find 3 more Malayalam AI series pages with view counts.
+- 26 Nov: TTS cost: Sarvam Bulbul v4 Flash INR 2 per 1,000 chars (v3 INR 3), INR 100 free credits on signup
+  (https://docs.sarvam.ai/api-reference-docs/getting-started/pricing). A 30 s Malayalam script (~400 chars) = ~INR 0.80. Malayalam
+  support not stated on the pricing page: confirm on the Bulbul model page before proposing. Kokoro has no Malayalam.
+- 26 Nov: PRO for A: Meta's originality rule (Mar 2026) rewards fully original content; an AI story series we write ourselves is
+  100% original, unlike trailer-based GTA clips. Market signal: ManoramaMAX launched "Khushi", a 100-min Malayalam AI-animated
+  kids' film, 14 Nov 2026 (https://www.onmanorama.com/entertainment/entertainment-news/2026/11/18/manoramamax-launches-khushi-jungle-adventure.html).
+- 26 Nov: Creator Fast Track (Meta) pays $1,000/month guaranteed for 3 months to creators with 100k+ followers on TikTok/YT/IG
+  (https://about.fb.com/news/2026/03/creator-fast-track-grow-your-audience-earn-money-on-facebook/). Not reachable now; it is a
+  milestone to aim at: 100k TikTok followers unlocks FB money without waiting for an invite.
 
 ### Candidate B: pure "GTA 6: The Real Cost" channel (English, long-form + Shorts)
 - Proof of demand: "Could you afford Vice City as a law-abiding citizen?" (https://www.gameshub.com/news/features/gta-6-vice-city-lifestyle-cost-2872949/),
@@ -40,3 +49,17 @@
    via API (in-app only), so low priority unless Mohamed posts one by phone. Impact: unknown, test once.
 5. Pinned-comment keyword CTA "Comment COST for Part 2". Source: Ash and Claude reel (2.5K reactions, ~1K comments, Mohamed 24 Nov).
    Automate: voiceover line + on-screen text; Part 2 posts within 24 h. Impact: comments from 0 to measurable.
+
+## 2026-11-26 ideas
+1. "Who they were before GTA 6" series (Jason soldier, Lucia, Cal, Boobie, Brian, Real Dimez...). Source: our 008 = 1,305 views in
+   17 h, 1.3% engagement, first comment. Why: single-person twist in 5 words. Automate: facts only from Rockstar's official
+   character pages; one script template, Part N in title. YouTube + TikTok only (not FB: narration = "unoriginal" on Meta). Impact: 2x median views/h.
+2. FB Page = Real Cost only. Source: https://about.fb.com/news/2026/03/rewarding-original-creators/ (narrating on-screen footage
+   is demoted; added analysis is rewarded; primarily-unoriginal Pages can be demonetised). Automate: batch script adds FB destination
+   only when topic tag == real-cost. Impact: protects the only platform likely to pay us in 2027.
+3. TikTok 18 s cap. Source: our data (4/4 TikToks at 21 s+ = 0 views; 5/5 at 16-18 s got 151-621). Automate: engine.py warns
+   when the TikTok render exceeds 18 s; trim the outro card for TikTok. Impact: stops wasting 1 in 3 TikTok posts, if confirmed by 012/017.
+4. Title hashtag diet. Source: Metricool, 799,718 videos (https://metricool.com/youtube-trends/): Shorts with hashtags ~10% fewer
+   views, ~9% more engagement. Automate: title without "#gta6 #shorts", 3 tags in description. Impact: small, cheap A/B.
+5. Strongest video at Slot B (01:00 UTC = 8 PM ET). Source: 010 and 008, our two best, both at Slot B. Automate: batch planner
+   sorts each day's 3 videos by predicted strength and puts #1 at 01:00 UTC. Impact: +20-50% on the lead video (hypothesis).
