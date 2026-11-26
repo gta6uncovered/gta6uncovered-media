@@ -9,7 +9,7 @@ OUT = os.path.abspath(sys.argv[1]); MODE = sys.argv[2]
 spec = importlib.util.spec_from_file_location('script', OUT + '/script.py'); sc = importlib.util.module_from_spec(spec); spec.loader.exec_module(sc)
 LINES, SHOTS, CARDS = sc.LINES, sc.SHOTS, sc.CARDS
 IMPACTS_K = getattr(sc, 'IMPACTS', []); DROP = getattr(sc, 'DROP', None); TICKS = getattr(sc, 'TICKS', [])
-SOURCE = getattr(sc, 'SOURCE', ''); SPEED = getattr(sc, 'SPEED', 1.16); SEED = getattr(sc, 'SEED', 4)
+CAP_Y = getattr(sc, 'CAP_Y', 1450); TAG = getattr(sc, 'TAG', ''); SOURCE = getattr(sc, 'SOURCE', ''); SPEED = getattr(sc, 'SPEED', 1.16); SEED = getattr(sc, 'SEED', 4)
 FOOT = os.environ.get('FOOT', '/home/claude/footage')
 AB, I4, I6 = S + '/fonts/ab.ttf', S + '/fonts/i4.ttf', S + '/fonts/i6.ttf'
 W, H, FPS = 1080, 1920, 30
@@ -49,16 +49,19 @@ IMPACTS = [SEG[k]['t0'] + o for k, o in IMPACTS_K]
 CUTS = []
 for s in SEGS:
     shots = SHOTS[s['key']]; n = len(shots); span = s['t1'] - s['t0']
-    for i, (f, st) in enumerate(shots):
-        CUTS.append(dict(file=f, src=st, a=s['t0'] + span * i / n, b=s['t0'] + span * (i + 1) / n))
+    for i, sh in enumerate(shots):
+        f, st = sh[0], sh[1]; m = sh[2] if len(sh) > 2 else 99
+        CUTS.append(dict(file=f, src=st, m=m, a=s['t0'] + span * i / n, b=s['t0'] + span * (i + 1) / n))
 
 def load_shot(c):
-    n = int(math.ceil((c['b'] - c['a']) * FPS)) + 2
+    need = int(math.ceil((c['b'] - c['a']) * FPS)) + 2; n = min(need, int(c.get('m', 99) * FPS))
     cmd = ['ffmpeg', '-loglevel', 'error', '-ss', str(c['src']), '-i', f"{FOOT}/{c['file']}.mp4", '-frames:v', str(n), '-an',
            '-vf', ('fps=30,crop=512:864:704:108' if c['file'] == 't2' else 'fps=30,crop=640:1080:640:0') + ',scale=1188:2006:flags=lanczos,eq=contrast=1.08:saturation=1.18', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-']
     raw = subprocess.run(cmd, capture_output=True, check=True).stdout
     fw, fh = 1188, 2006; k = len(raw) // (fw * fh * 3)
-    return [Image.frombuffer('RGB', (fw, fh), raw[i * fw * fh * 3:(i + 1) * fw * fh * 3]) for i in range(k)]
+    frs = [Image.frombuffer('RGB', (fw, fh), raw[i * fw * fh * 3:(i + 1) * fw * fh * 3]) for i in range(k)]
+    if k < need: frs = [frs[min(k - 1, int(j * k / need))] for j in range(need)]  # slow-mo stretch inside the clean window
+    return frs
 
 def grad(h, top=True, a=200):
     g = Image.new('L', (1, h))
@@ -153,6 +156,16 @@ def draw_el(d, e, lt):
                     d.rounded_rectangle([cx - hw, yy - hh, cx + hw, yy + hh], int(30 * s2) or 1, fill=C(e.get('bg', 'a')), outline=WH, width=3)
                     d.text((cx, yy), it, font=F(AB, e.get('size', 46) * s2), fill=WH, anchor='mm')
                 x += w + 20
+    elif ty == 'formula':
+        # stacked Real Cost maths: QTY x RATE = COST, one row each, labels on the left
+        rows = [(e.get('ql', 'QUANTITY'), e['q']), (e.get('rl', 'x RATE'), e['r']), (e.get('cl', '= COST'), e['c'])]
+        for j, (lab, val) in enumerate(rows):
+            tt = lt - j * e.get('step', 0.6)
+            if tt < 0: continue
+            yy = y + j * 150; s2 = back(tt / 0.3); last = j == 2
+            d.rounded_rectangle([70, yy - 62, W - 70, yy + 62], 26, fill=(60, 40, 10) if last else (16, 16, 22), outline=YEL if last else (110, 110, 130), width=5)
+            d.text((110, yy), lab, font=F(I6, 40), fill=GRY, anchor='lm')
+            d.text((W - 110, yy), val, font=F(AB, fit(d, val, 84 * s2, 640)), fill=YEL if last else WH, anchor='rm', stroke_width=5, stroke_fill=BLK)
     elif ty == 'strike':
         size = fit(d, e['s'], e.get('size', 96)); f = F(AB, size * back(lt / 0.3))
         col = C(e.get('col', 'w')); sl = lt - e.get('at', 0.6)
@@ -164,6 +177,9 @@ def draw_el(d, e, lt):
 def overlay(d, t):
     seg = [s for s in SEGS if s['t0'] <= t][-1]; k = seg['key']; lt = t - seg['t0']
     lens(d, 92, 120, 36, 8); d.text((146, 120), 'GTA6 UNCOVERED', font=F(AB, 32), fill=WH, anchor='lm', stroke_width=4, stroke_fill=BLK)
+    if TAG:
+        tw = d.textlength(TAG, font=F(AB, 34)) + 40
+        d.rounded_rectangle([W - 60 - tw, 92, W - 60, 148], 14, fill=(210, 140, 20)); d.text((W - 60 - tw / 2, 120), TAG, font=F(AB, 34), fill=WH, anchor='mm')
     for e in CARDS.get(k, []): draw_el(d, e, lt)
     words, act, wt = chunk_at(t)
     if words:
@@ -173,7 +189,7 @@ def overlay(d, t):
         x = W / 2 - tot * scl / 2
         for j, w in enumerate(words):
             pop = 1.0 + (0.12 * (1 - clamp(wt / 0.12)) if j == act else 0)
-            d.text((x + widths[j] * scl / 2, 1450), w.upper(), font=F(AB, 78 * pop * scl), fill=YEL if j == act else WH, anchor='mm', stroke_width=10, stroke_fill=BLK)
+            d.text((x + widths[j] * scl / 2, CAP_Y), w.upper(), font=F(AB, 78 * pop * scl), fill=YEL if j == act else WH, anchor='mm', stroke_width=10, stroke_fill=BLK)
             x += (widths[j] + sp) * scl
     foot = 'Official Rockstar trailer footage · Unofficial fan channel'
     d.text((W // 2, 1600), foot, font=F(I4, 28), fill=(220, 220, 225), anchor='mm', stroke_width=3, stroke_fill=BLK)

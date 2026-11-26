@@ -35,11 +35,14 @@ Crops are built into engine.py: t1 is full-frame 1080p; t2 is letterboxed.
 - Accounts (platformAccountId):
   - YouTube: UCAgYSIVaPN90qmxf5ePCN_w
   - TikTok: _000_iNPEUYjS76n3j4kfNQfEN_8eQ-MVhuB
-  - Instagram: 30103538905917108
+  - Instagram: DISABLED 24 Nov 2026, never use.
+  - Facebook Page: 1471377252729945 (max 1 Reel/day at 7 PM UAE until 9 Dec; then max 2/day if no warnings)
 - One `vidiq_social_post_draft_create` per video, with all three destinations.
   - YouTube: title, privacyStatus public, categoryId 20, tags.
   - TikTok: privacyLevel PUBLIC_TO_EVERYONE, allowComment true, musicUsageConfirmed true, isAiGenerated true. (These are the owner's standing choices.)
-- Slots (UAE, UTC+4): Slot A 7:00 PM (15:00 UTC), Slot B 5:00 AM (01:00 UTC).
+- Slots (UAE, UTC+4, approved 25 Nov): 5:00 AM (01:00 UTC), 1:00 PM (09:00 UTC), 7:00 PM (15:00 UTC), 3 Shorts/day on YouTube + TikTok.
+  Thursday run = Sat 05:00 to Tue 19:00 UAE (12 Shorts) + weekly LONG on YouTube Sunday 6:00 PM UAE (14:00 UTC); Sunday 1 PM Short is TikTok-only.
+  Monday run = Wed 05:00 to Fri 19:00 UAE (9 Shorts).
 - PUBLISH ONLY AFTER Mohamed replies "approve week" to that batch.
 - The vidIQ free plan allows 3 YouTube uploads per day; the limit resets at 08:00 UTC. Publish TikTok and Instagram at once. Send YouTube destinations 3 per day using `send_later` reminders at 08:10 UTC, in slot order.
 - If he approves late and a slot has already passed, move that video to the end of the week and tell him.
@@ -90,3 +93,12 @@ Payouts only count after submitting each post's link on contentrewards.com (Subm
 - It replaces Instagram. Facebook Content Monetization is open to UAE creators (invite-only), so Facebook is a PAYING platform for us, unlike TikTok.
 - Ramp-up, learned from the Instagram ban: weeks 1-2 = max 1 Reel/day at 7 PM UAE, varied captions, 3-5 hashtags, originality-first (Real Cost videos first). Raise to 2/day only after 2 clean weeks.
 - Never send near-identical videos in a row to the Page. Rotate formats.
+
+## Long-form (weekly Real Cost episode), added 26 Nov 2026
+- Engine: `tools/engine_long.py` (1920x1080, 30 fps). Script = `work/LNN/script.py` with BEATS = [(narration, visual)]; one sentence per beat.
+  Visuals: `c(SHOT, SHOT)` trailer clips from the clean-window library at the top of `tools/scripts/L01.py`; `card(bg, els, src)` with
+  elements title/sub/counter/formula/bars/table/chips/map/stats/rule/assume/note/range; `chap(n, title, bg)` chapter cards.
+- Steps: `voice` (Kokoro, files named by text hash so beats can be inserted) -> `preview` (contact.jpg + chapter times) -> `full` (JOBS=2, renders beats in parallel then concatenates) -> `thumb` (1280x720).
+- Trailer windows: always pick start times from a 1 fps sheet and check brightness; t1 15-18 s, t3 15-17 s, 22-25 s and 72+ s have title cards; t2 0-7 s is black/fade.
+- Rules: hook confirms the title in the first 15 s; clips max ~5 s each; every cost card shows ESTIMATE and source; 8 min+ for mid-rolls; chapters + sources in the description; thumbnail = big object + $ figure + max 3 words, uploaded with vidiq_upload_image and set as thumbnailImageId.
+- engine.py shots may now be (file, start, max_seconds): the cut is slow-mo stretched inside the clean window instead of running into a title card.
