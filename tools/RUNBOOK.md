@@ -108,3 +108,7 @@ Mohamed chats ONLY in the main control chat. Batch and learning runs must:
 - save every draft (postId, revision, per-platform publicationIds, slot time) to tools/scripts/drafts_YYYY-MM-DD.json and commit it before ending;
 - write anything he must know or answer to tools/ALERTS.md (dated, newest first).
 The main chat's daily 12:15 PM UAE check-in relays the batch to him, collects "approve", publishes, and spreads YouTube uploads 3/day. Batch runs must NOT wait for or expect replies in their own session.
+
+## Facebook content rule (approved by Mohamed 27 Nov 2026)
+- Facebook Page gets ONLY Real Cost / own-analysis Reels. No narrated news/sales/record videos on FB (Meta originality rule).
+- 005 FB reel went out 27 Nov 15:00Z before his "remove" reply was acted on (reply came after the slot). Lesson: any decision touching a same-day slot must be asked >=6 h before the slot, and the check-in must re-check the clock before acting.
