@@ -1,49 +1,53 @@
 # GTA6 Uncovered: lessons (rewritten daily by the learning task)
 
-Today (2026-11-26): YT 6,740 public views (+2,203 vs 25 Nov) | TikTok 1,745 (+820) | FB Page: 2 Reels live, no stats tool |
-comments: 1 (first ever, on 008) | vidIQ 55 -> 40 credits. Still 6 new-style data points: hypotheses, not laws.
+Today (2026-11-27): YT 9,212 public views (+2,472 vs 26 Nov) | TikTok 2,069 (+324) | FB Page: 3 Reels live, no stats yet |
+comments: 1 total | vidIQ 40 -> 30 credits (renews 20 Dec). 7 new-style Shorts measured: still hypotheses.
 
 ## Doing more of
-- STRONG SINGLE-PERSON CONTRAST hooks. 008 "Jason was a SOLDIER" = 1,305 YT views in 17 h (75/h), 16 likes, 1.3% engagement,
-  first comment. Beats 010 "NO DISC" (63/h day 1). Both are one surprising fact you can say in 5 words.
-- Slot B (01:00 UTC = 8 PM US Eastern) holds our two best Shorts (010, 008). Slot A (15:00 UTC = 10 AM ET): 004 16/h, 007 8/h.
-  Early read on 009 at Slot A: 107/h in first 3 h (first-hours push, recheck tomorrow).
-- 16-18 s cuts. Every TikTok of 16-18 s got views; all 4 TikToks of 21 s+ sit at 0 views (see Test next).
-- Real Cost on Facebook: Meta (Mar 2026) rewards "new information or analysis" and demotes "narrating what's on screen".
-  Our QS cost cards ARE new analysis; trailer + facts narration is exactly the demoted type.
+- ONE BIG NUMBER or ONE TWIST in 5 words, posted at Slot B (01:00 UTC). 005 "sold 32.5 MILLION" = 1,730 YT views in 17 h
+  (99/h, 21 likes), our new best. 008 "Jason SOLDIER" 75/h, 010 "NO DISC" 63/h. All three: Slot B, 16-19 s, one fact.
+- Day-1 is everything: Shorts get ~90% of views in 24 h (day-2 gains: 008 +168, 010 +16, 004 +6). So views/day = how many
+  strong uploads we ship. 3/day is the floor; quality of each hook is the lever.
+- 16-18 s cuts. TikTok: every 16-18 s post got 151-621 views; all four 21 s+ posts still 0.
+- FB = Real Cost only (approved 27 Nov). Meta and YouTube both reward own analysis; it is also our channel-level protection.
 
 ## Stop doing
-- Judging a whole category from n=1. Yesterday we banned lore because Lucia (007) did 12/h; today Jason lore is our best video.
-  The variable was the hook (single clean twist "SOLDIER" vs vaguer "PRISON... mostly by luck"), maybe slot, not the topic.
-- Records/milestone shorts: still bottom (006: 195 views in 65 h, 004: 560 in 51 h). Keep them out.
-- Sending non-Real-Cost Reels to the Facebook Page (005 "sold 32.5M copies" is queued for FB 27 Nov 15:00 UTC; see ALERTS).
-- "#gta6 #shorts" stuffing in titles: Metricool (800k videos) finds hashtagged Shorts get ~10% fewer views.
+- Banning categories. "Records" was banned on 26 Nov (004, 006 weak); today a records/sales Short (005) is our best. The
+  variable is the hook size (32.5 MILLION, $3.79 BILLION) and the slot, not the category. Rule: judge hooks, not topics.
+- Feeding TikTok as if it pays. TikTok gained 324 views today (YT 2,472), pays nothing in the UAE, and our ceiling there is
+  ~600/post. Keep auto-posting (zero cost), but spend zero research/editing time on TikTok-only tweaks.
+- Vague hooks with "mostly", "maybe", "was it worth it" (007 Lucia 6/h, 009 delay 31/h).
 
 ## Test next
-- Length cap 18 s on TikTok. 012 (20.6 s) and 017 (20.9 s) go out 28/30 Nov: if they also stick at 0, cap all TikTok cuts at 18 s.
-- Hook rule A/B: every topic gets a "5-word twist" headline (WHO + one surprising noun). Metric: views/h at 24 h vs 008's 75/h.
-- Slot test: next batch put the strongest video of each day at Slot B (01:00 UTC). Compare A vs B at 24 h.
-- Comment CTA "Comment COST" on 013/014 (28-29 Nov). Metric: comments/1k views (today 1 comment / 8,485 views).
-- One Short in Monday's batch with NO hashtags in title (keep 3 in description). Metric: views/h vs batch median.
+- Big-number hook rule: every title carries one number >= 1M or a $ figure. Metric: views/h at 24 h vs 005's 99/h.
+- Real Cost on YouTube Slot B: Part 1 (013) and Part 2 go out this weekend. Does own-analysis beat news at 24 h?
+- TikTok 18 s cap: 012 (20.6 s, 28 Nov) and 017 (20.9 s, 30 Nov). If both stay at 0, cap TikTok cuts at 18 s.
+- "Comment COST" CTA on 013/014. Metric: comments per 1k views (today 1 per ~11k).
+- Long-form L01 (uploaded 27 Nov, goes public Sunday 14:00 UTC): first watch-hours read on Monday's run.
 
 ## Biggest risk / opportunity
-- RISK (Facebook, official): Meta's originality rule deprioritises and can demonetise Pages that mostly narrate existing
-  footage (https://about.fb.com/news/2026/03/rewarding-original-creators/). Our Page is 2 days old; set the pattern now:
-  FB gets Real Cost / own-analysis only. Also: views <5 s and videos <10 s never earn on FB.
-- RISK (YouTube): YPP 2027 bar (1k subs + 8k h, or 20M Shorts views/90 d) unchanged. Our pace ~2k views/day = 0.9% of 20M/90 d.
-  Long-form L01 (Sunday) is the only route to watch hours; it must ship this week.
-- OPPORTUNITY: Jason-style "character twist" shorts cost nothing new to make (Rockstar's official pages, 2 characters + side cast).
-  A 6-part "Who they were before GTA 6" series is a ready next batch for YouTube/TikTok (not FB).
+- RISK (YouTube, channel-level): the inauthentic-content enforcement judges a channel's last ~30 uploads as one pattern
+  (TNW, 15 Jun 2026: https://thenextweb.com/news/youtube-ai-slop-crackdown-faceless-creators-collateral-damage). Our 30
+  uploads = same template, TTS voice, Rockstar trailer footage. Real Cost (own QS analysis, sources on screen) is what makes us
+  "not mass-produced". Target: >= 1 in 3 uploads is own analysis by mid-December.
+- OPPORTUNITY (fixes our blind spot): Windsor.ai's Facebook Page Insights connector is in the Claude directory, free forever
+  for 1 data source, includes Reels plays and 15/30/60 s watch counts (https://windsor.ai/connect/facebook-page-insights-mcp/).
+  Mohamed connects it once (his FB login) -> daily FB numbers in this report. See ALERTS.
+- MONEY: GTA 6 clipping market (FindClout, 18 Nov): 12 live campaigns, $45,080 budgets, median $1.00 per 1k views, 3 are
+  streamer-clip campaigns (https://findclout.com/gta-6-clipping/pay-rates/). Still the fastest real cash path (Candidate C).
 
-## Owner's critique (26 Nov)
-- We flip-flopped: one day of data made us drop a category that is now our winner. Too reactive, too little sample.
-  Worse, we still have NO Facebook insights, so the only paying platform for us is flying blind.
-- FIX: (1) Decide categories on 3+ videos each, judged by views/h at 24 h, not by one video. (2) FB = Real Cost only from today
-  (needs Mohamed's yes to swap 005 off FB). (3) Ask in the main chat for a weekly 1-minute FB Professional Dashboard screenshot
-  until a stats tool exists. (4) Second-channel proposal still due 30 Nov (see IDEAS).
+## Owner's critique (27 Nov)
+- Too reactive again: two days in a row a category we "stopped" became the winner. We are reading noise. Fix: no category
+  bans; only hook rules, judged on 3+ videos at 24 h.
+- Too slow to money: 14 days in, $0 earned and no route pays before YPP/FB invite. The only near-term cash (clipping pools)
+  has been parked since 23 Nov. The 30 Nov second-channel proposal must lead with C (clips) costs and a 2-week cash test.
+- Flying blind on the one platform that can pay us (FB) for 3 days after a free fix existed. The radar must check the
+  connector directory for our known gaps (FB stats) every day, not only for new shiny tools.
+- Content Rewards public page could not be fetched today (blocked); used FindClout data instead. Retry tomorrow.
 
 ## Daily log
 - 2026-11-23: seed. 001-003 old style live. YT 2,754. TikTok 0. IG insights expired.
 - 2026-11-24: YT 3,266. TikTok 004 = 179. IG suspended. 0 comments. 80 -> 65 credits.
 - 2026-11-25: YT 4,537 (010 no-disc best). TikTok 925. FB first Reel. YPP thresholds double 1 Feb 2027.
-- 2026-11-26: YT 6,740 (008 Jason 1,305 in 17 h, new best). TikTok 1,745. First comment. 4 TikToks >=21 s stuck at 0. Meta originality rule.
+- 2026-11-26: YT 6,740 (008 Jason 1,305 in 17 h). TikTok 1,745. First comment. 4 TikToks >=21 s stuck at 0. Meta originality rule.
+- 2026-11-27: YT 9,212 (005 sales 1,730 in 17 h, new best). TikTok 2,069. 005 went to FB before rule applied. Windsor FB stats found.

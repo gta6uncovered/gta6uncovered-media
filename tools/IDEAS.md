@@ -1,4 +1,4 @@
-# GTA6 Uncovered: ideas backlog (appended by the daily learning task, keep under 150 lines)
+# GTA6 Uncovered: ideas backlog (appended by the daily learning task, keep under 200 lines)
 
 ## Second channel (proposal due Monday 30 Nov batch)
 
@@ -44,10 +44,7 @@
 3. "30 FPS even on PS5 Pro" debate short. Source: https://kotaku.com/some-players-are-crashing-out-about-gta-6-only-being-30-fps-starfield-got-assaulted-for-being-locked-to-30-fps-2000755892
    and TechRadar (Rockstar confirmed 30 fps at launch). Why: a real argument people already have, so the question gets comments.
    Automate: normal pipeline, question "30 locked or 60 blurry?". Impact: first comments.
-4. "Visit Vice City" Shorts Effect from YouTube's launch push (https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/).
-   Why: YouTube is promoting GTAVI content (3.5B views on launch day); effects/features can get feed boosts. Automate: not possible
-   via API (in-app only), so low priority unless Mohamed posts one by phone. Impact: unknown, test once.
-5. Pinned-comment keyword CTA "Comment COST for Part 2". Source: Ash and Claude reel (2.5K reactions, ~1K comments, Mohamed 24 Nov).
+4. Pinned-comment keyword CTA "Comment COST for Part 2". Source: Ash and Claude reel (2.5K reactions, ~1K comments, Mohamed 24 Nov).
    Automate: voiceover line + on-screen text; Part 2 posts within 24 h. Impact: comments from 0 to measurable.
 
 ## 2026-11-26 ideas
@@ -106,3 +103,38 @@ TikTok For You ~14 videos. TikTok search was blocked by a slider CAPTCHA (stoppe
 3. "GTA 6 vs GTA 5: the one upgrade nobody noticed" (vs format)
 4. "Stop doing this in GTA 6 — it's costing you money" (money tip, warning hook)
 5. "Real Cost: what Lucia's Vice City apartment costs in real Miami" (FB-safe own analysis)
+
+## Radar 2026-11-27
+- Windsor.ai "Facebook Page Insights" connector (Claude directory, also "Windsor.ai for Social Media").
+  Source: https://windsor.ai/connect/facebook-page-insights-mcp/ , https://windsor.ai/pricing/ (updated 22 Nov).
+  Real: Forever Free plan = 1 data source, 1 account, 30-day lookback, MCP included; metrics include Reels plays and
+  15/30/60 s + 95% watch counts. Since 15 Jun 2026 Meta no longer splits organic/paid reach (totals only). Cost: $0
+  (Basic $19-23/mo only if we want TikTok/YT in it too: not needed, vidIQ covers those). Fit: HIGH, it is our only FB stats
+  route. Action: Mohamed enables the connector in claude.ai and signs in with the FB account that owns the Page (his yes).
+- GTA 6 clipping market snapshot (FindClout, 18 Nov): 12 live campaigns, $45,080 posted budgets, median $1.00/1k views
+  (range $0.35-2.00), 3 streamer-clip campaigns, 6 music (need in-app sound = not automatic), budgets median $2,104.
+  Caveats: per-post caps, view minimums, budget runs out; realised pay on one marketplace ~$0.66/1k.
+  Source: https://findclout.com/gta-6-clipping/pay-rates/ , https://findclout.com/gta-6-clipping/campaigns/ .
+  Fit: streamer campaigns only (no sound needed). Action: include in 30 Nov proposal (Candidate C); retry the Content
+  Rewards discover page tomorrow (blocked today).
+- Social posting connectors (Blotato, Metricool, Windsor Social): listed at https://www.blotato.com/blog/best-claude-connectors-social-media .
+  Real but redundant: vidIQ already posts to YT/TikTok/FB. Fit: LOW. No action.
+- OpusClip: no new feature found this week beyond the 4.0 release (https://www.opus.pro/blog/opusclip-4-0). Connector + Pro
+  $29/mo still the plan for Candidate C.
+- YouTube enforcement is channel-level: one pattern across the last ~30 uploads can cut monetisation for all; on-camera
+  faces and niche education fared better; AI labels themselves are not penalised (TNW, 15 Jun 2026,
+  https://thenextweb.com/news/youtube-ai-slop-crackdown-faceless-creators-collateral-damage). Fit: direct risk to us. Action:
+  raise own-analysis share (Real Cost) to >= 1 in 3 uploads; vary the template (see idea 3 below).
+
+## 2026-11-27 ideas
+1. Big-number hook rule. Source: our 005 "sold 32.5 MILLION" = 99 views/h, 1,730 in 17 h (best ever) after we had "banned"
+   records. Why: a huge concrete number is a 1-second hook. Automate: batch script rejects a title without a number >= 1M or a
+   $ figure, unless it is a character twist. Impact: lift median day-1 from ~600 to 1,000+.
+2. Real Cost "price tag" Shorts in the 005 shape: one giant $ number first ("$653 BILLION to build Vice City"). Source: 005 +
+   Real Cost demand. Why: combines our best hook type with the only content that is safe on FB and protective on YouTube.
+   Automate: existing Real Cost scripts, first card = the total. Impact: same views as 005 with policy safety.
+3. Template variety to avoid the "mass-produced" pattern: rotate 3 visual formats (trailer B-roll / QS cost-card board /
+   map + numbers) and 2 voices. Source: TNW channel-level enforcement. Automate: engine.py STYLE flag. Impact: risk reduction.
+4. Clips cash test (Candidate C) as a 2-week paid pilot: OpusClip Pro $29 + 2 new accounts, streamer campaigns only.
+   Break-even = ~44k paid views at $0.66/1k. Source: FindClout snapshot above. Needs Mohamed's yes + sign-ups on 30 Nov.
+5. Daily FB numbers via Windsor (free) feeding this report, so FB-only decisions stop being guesses. Needs his one-time connect.

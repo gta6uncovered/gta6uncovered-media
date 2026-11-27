@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-27",
+  "taken_at_utc": "2026-11-27T18:25:00Z",
+  "window": "2026-11-13 to 2026-11-27",
+  "youtube": {
+    "channel": "UCAgYSIVaPN90qmxf5ePCN_w",
+    "public": [
+      {"n": "005", "id": "PPnS_7IsC4w", "title": "GTA 6 sold 32.5 MILLION before launch", "published_utc": "2026-11-27T01:00:37Z", "slot": "B", "length_s": 18, "topic": "records/sales", "views": 1730, "likes": 21, "comments": 0, "age_h": 17.4, "vph": 99, "engagement": 0.012, "outlier": 2.25, "note": "NEW BEST day-1 pace"},
+      {"n": "008", "id": "NIwxLXyNCq8", "title": "Jason was a SOLDIER before GTA 6", "slot": "B", "length_s": 16, "topic": "character lore", "views": 1473, "likes": 16, "comments": 1, "age_h": 41.4, "gain_24h": 168, "outlier": 3.18},
+      {"n": "009", "id": "4wnyGrrnFmA", "title": "GTA 6 got delayed TWICE... was it worth it?", "slot": "A", "length_s": 16, "topic": "debate", "views": 840, "likes": 9, "comments": 0, "age_h": 27.4, "gain_24h": 477, "outlier": 2.86},
+      {"n": "010", "id": "ranhnEFyqAo", "title": "There's NO DISC in the GTA 6 box", "slot": "B", "length_s": 19, "topic": "viewer-impact", "views": 1315, "likes": 9, "comments": 0, "gain_24h": 16},
+      {"n": "007", "id": "lhY0-mJTfpU", "title": "Lucia was in PRISON before GTA 6 starts", "slot": "A", "length_s": 18, "views": 304, "likes": 2, "gain_24h": 75},
+      {"n": "004", "id": "jbyWwmRauXA", "views": 566, "likes": 5, "gain_24h": 6},
+      {"n": "006", "id": "nTFti_Uv5zE", "views": 195, "likes": 2, "gain_24h": 0},
+      {"n": "003", "id": "FYlyPIjeGlc", "views": 1217, "likes": 9},
+      {"n": "002", "id": "zOPKVeok2QI", "views": 1320, "likes": 6},
+      {"n": "001", "id": "s9lOCe665iU", "views": 252, "likes": 1}
+    ],
+    "total_public_views": 9212,
+    "delta_vs_2026_11_26": 2472,
+    "uploaded_not_public_yet": ["011 EULmFVZwTAA", "012 ia6j1JYIjEY", "013 QQ-gtuy2uXQ", "RC2 6SYcyLdFzcI", "RC-city short _HSPr4pyWJA", "L01 long xOn5GukQD1o"],
+    "pattern": "Shorts get ~90% of lifetime views in the first 24 h (008 +168, 010 +16, 004 +6 on day 2-3)."
+  },
+  "tiktok": {
+    "handle": "@gta6uncoveredyt",
+    "videos": [
+      {"n": "005", "id": "7712649758757637397", "views": 173, "likes": 3, "length_s": 17, "age_h": 17.4},
+      {"n": "009", "id": "7712495355824262420", "views": 375, "likes": 4},
+      {"n": "008", "id": "7712278670274022677", "views": 386, "likes": 4, "saves": 1},
+      {"n": "007", "id": "7712124325981261076", "views": 363, "likes": 2, "shares": 1, "saves": 2},
+      {"n": "010", "id": "7711907576207674645", "views": 151, "likes": 1},
+      {"n": "004", "id": "7711755078994070805", "views": 621, "likes": 8, "shares": 1},
+      {"n": "006", "views": 0, "length_s": 21},
+      {"n": "003", "views": 0, "length_s": 25},
+      {"n": "002", "views": 0, "length_s": 33},
+      {"n": "001", "views": 0, "length_s": 34}
+    ],
+    "total_views": 2069,
+    "delta_vs_2026_11_26": 324,
+    "comments": 0
+  },
+  "facebook_page": {
+    "platformAccountId": "1471377252729945",
+    "posts": [
+      {"n": "007", "url": "https://www.facebook.com/reel/1657854529142585"},
+      {"n": "009", "url": "https://www.facebook.com/reel/1140432618840781"},
+      {"n": "005", "url": "https://www.facebook.com/reel/1664088008551624", "posted": "2026-11-27T15:01Z", "note": "non-Real-Cost; went out before the FB rule was applied (logged in RUNBOOK)"}
+    ],
+    "stats": "still no insights tool; Windsor.ai free plan found (see IDEAS Radar 2026-11-27)",
+    "next": "Real Cost Part 1, 28 Nov 15:00 UTC"
+  },
+  "instagram": "permanently disabled; not used",
+  "posts_failed_new": 0,
+  "comments_total": 1,
+  "top_comment": "only comment still the 008 one; comments not re-read (no credits spent)",
+  "copyright_claims": "none visible",
+  "vidiq_credits": {"start": 40, "used": 10, "end": 30, "renews": "2026-12-20"}
+}

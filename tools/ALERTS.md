@@ -1,5 +1,24 @@
 # GTA6 Uncovered: alerts for Mohamed (newest first; relayed by the main chat's 12:15 PM UAE check-in)
 
+## 2026-11-27 (daily learning run)
+**1. Free fix for our Facebook blind spot. Needs your YES (1 minute, your Facebook login).**
+- What: Windsor.ai's "Facebook Page Insights" connector is in the Claude connector directory. Its Forever Free plan (1 data
+  source) gives Reels plays and 15/30/60-second watch counts for the Page (https://windsor.ai/connect/facebook-page-insights-mcp/).
+  Today we have zero Facebook numbers, and Facebook is the only platform likely to pay us.
+- Fix: you enable the Windsor connector in claude.ai and sign in with the Facebook account that owns the GTA6 Uncovered Page.
+  Then the daily report includes Facebook. No card needed for the free plan.
+
+**2. New best Short: 005 "sold 32.5 MILLION" = 1,730 YouTube views in 17 h (99/h, 21 likes).**
+- It is a "records" topic that we had told you to stop on 26 Nov. Second day in a row our ban was wrong.
+- Fix: no more topic bans; new rule = every title carries one huge number or $ figure (or a one-word character twist).
+  No yes needed.
+
+**3. Owner's critique: 14 days in, $0 earned, and no route pays before the YouTube/Facebook thresholds.**
+- The only near-term cash is GTA 6 clipping campaigns (12 live, $45K budgets, ~$1 per 1,000 views, per FindClout 18 Nov).
+  The 30 Nov proposal will lead with a 2-week clips pilot (OpusClip Pro $29 + 2 new accounts). Decision then, not now.
+
+Totals today: YouTube 9,212 public views (+2,472), TikTok 2,069 (+324). No failed posts, no claims seen. vidIQ credits 30.
+
 ## 2026-11-26 (daily learning run)
 **1. Facebook originality risk. Needs your YES today (before 27 Nov 7:00 PM UAE).**
 - What: Meta's rule (Mar 2026) demotes, and can demonetise, Pages that mostly "narrate what's already on screen". Reels that add
