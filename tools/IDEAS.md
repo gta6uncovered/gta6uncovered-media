@@ -88,3 +88,21 @@
 - GTA 6 top videos right now (1 day old) are in-game gameplay tricks/strats: "infinite food strat" 377.8K likes, stunts 164.7K, "biggest bank robbery 130K" 64.7K, "Ultimate Edition worth the wait" 93K. Post-launch (19 Nov) demand has moved to "how to / strat / money" tips.
 - Action: test text-card "GTA 6 money/strat" Shorts built from published guides (with a cited source, no reused gameplay footage). Gameplay footage would need our own capture (we have no console), so keep away from reused-content risk.
 - AI niche: "Comment 'edit' to get…" CTA (Kevin Dang 18.6K) again confirms comment-bait CTAs.
+
+## 2026-11-27 — Nightly read-only scan (FB Page + TikTok, Browser 2)
+Coverage: FB Reels feed ~12 reels; FB video search x5 (GTA 6, GTA 6 tips, AI faceless channel, AI video automation, Claude AI automation);
+TikTok For You ~14 videos. TikTok search was blocked by a slider CAPTCHA (stopped per rules; not solved).
+### What's winning
+- FB "how machines work" AI explainer: "How Do ATMs Know What to Do?" (Ideas on 5 mi..., AI-labelled) = 2.9M likes, 172K shares.
+  Why: curiosity question + see-inside visual, zero face. Test: "How GTA 6 knows where you are / how the police AI decides" text-card explainer (cite Rockstar/press, no gameplay reuse).
+- FB AI-generated story reels dominate the feed: Milo & Chikoo animal story 2.4M likes; AI baby 1.2M; AI Cinemas 49.5K. AI-labelled content is NOT being suppressed on FB if it is original.
+- FB "GTA 6 Daily" (1 h old): "6 RARE GTA 6 cars you can steal for FREE — which one are you grabbing first?" Listicle + free + question CTA. Copy the template (number + rare + free + choose-one question).
+- FB GTA 6 video search = mostly fresh GTA V clips mislabelled #GTA6 with 1-10 reactions. Low competition on real post-launch tips on FB.
+- TikTok FYP: GTAWorld "Time for GTA 6" skyline 15.3K likes; TAMRIX "GTA 6 vs GTA 5 — the graphics upgrade is unreal" 24.6K saves/likes. Side-by-side "vs" comparison remains a reliable GTA hook.
+- FB AI niche searches: old or low-engagement (2-14 reactions); "AI Faceless Channel Blueprint 2026" (Money Printer PRO). Nothing new on Claude.
+### Hooks to test next batch
+1. "6 rare GTA 6 cars you can get for FREE — which one first?" (listicle, comment question)
+2. "How does GTA 6's police AI actually find you?" (how-it-works explainer)
+3. "GTA 6 vs GTA 5: the one upgrade nobody noticed" (vs format)
+4. "Stop doing this in GTA 6 — it's costing you money" (money tip, warning hook)
+5. "Real Cost: what Lucia's Vice City apartment costs in real Miami" (FB-safe own analysis)

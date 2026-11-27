@@ -20,3 +20,10 @@
   Optional: in the TikTok app, open one of those 4 posts and see if it says "not eligible for For You". No yes needed.
 
 Totals today: YouTube 6,740 public views (+2,203), TikTok 1,745 (+820). No failed posts, no claims seen.
+
+## 2026-11-27 (nightly scan)
+**1. MONEY: $1M AI Film Award (1 Billion Followers Summit, Dubai) — TikTok ad says "Deadline extended: submit your AI film by 5 December". Needs Mohamed's YES/decision.**
+- Real and official (Google Gemini / BytePlus Seedance partners): https://www.1billionsummit.com/ai-film-award ,
+  https://www.wam.ae/en/article/c2pf8nu-billion-followers-summit-opens-submissions-for . Check rules/length/eligibility on the official page; entering = his account/sign-up.
+**2. TikTok search hit a CAPTCHA on Browser 2.** Scans of tiktok.com/search will fail until he clears it by hand. FYP still loads.
+**3. No new GTA 6 patch/news found tonight** (quick web check; nothing confirmed post-launch).
