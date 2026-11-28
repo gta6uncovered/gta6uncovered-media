@@ -46,3 +46,12 @@ Totals today: YouTube 6,740 public views (+2,203), TikTok 1,745 (+820). No faile
   https://www.wam.ae/en/article/c2pf8nu-billion-followers-summit-opens-submissions-for . Check rules/length/eligibility on the official page; entering = his account/sign-up.
 **2. TikTok search hit a CAPTCHA on Browser 2.** Scans of tiktok.com/search will fail until he clears it by hand. FYP still loads.
 **3. No new GTA 6 patch/news found tonight** (quick web check; nothing confirmed post-launch).
+
+## 2026-11-28 (nightly scan)
+**1. GTA 6 NEWS: first post-launch patch 01.002.002 (reported 23 Nov) + growing "graphics downgrade" complaints (today's coverage).**
+- Fixes: crashes, auto-save errors, phone calls not triggering missions, can't lose Wanted Level, gym bugs, stuck weather. PS5/PS5 Pro players report blurrier textures,
+  more pop-in, weaker lighting; no Rockstar response yet. Timely Short topic (hook #1 in IDEAS). Sources: https://www.notebookcheck.net/GTA-6-PS5-and-PS5-Pro-players-note-downgraded-graphics-following-first-update.1461721.0.html ,
+  https://www.bozokmedia.com/en/gaming/2026/11/28/first-gta-6-patch-released-rockstar-fixes-seven-major-player-complaints-440564/
+- Unofficial "60 FPS patch" reportedly needs a JAILBROKEN PS5 — do NOT promote or show how (policy risk). Mention only as news, if at all.
+**2. Scam-bait trend: "GTA 6 MOBILE download" videos on FB.** Never use similar titles/links (Meta + YouTube scam policy strike risk). A debunk Short is safe.
+**3. TikTok search CAPTCHA on Browser 2 still there (2nd night).** Needs Mohamed to clear it by hand once in Chrome; until then nightly TikTok search coverage = FYP only.

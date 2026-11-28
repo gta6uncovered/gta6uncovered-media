@@ -138,3 +138,28 @@ TikTok For You ~14 videos. TikTok search was blocked by a slider CAPTCHA (stoppe
 4. Clips cash test (Candidate C) as a 2-week paid pilot: OpusClip Pro $29 + 2 new accounts, streamer campaigns only.
    Break-even = ~44k paid views at $0.66/1k. Source: FindClout snapshot above. Needs Mohamed's yes + sign-ups on 30 Nov.
 5. Daily FB numbers via Windsor (free) feeding this report, so FB-only decisions stop being guesses. Needs his one-time connect.
+
+## 2026-11-28 — Nightly read-only scan (FB Page + TikTok, Browser 2)
+Coverage: FB Reels feed 15 reels; FB video search x5 (GTA 6, GTA 6 tips, AI faceless channel, AI video automation, Claude AI automation);
+TikTok For You 14 videos. TikTok search blocked AGAIN by slider CAPTCHA (stopped per rules; not solved). (FB counts read from page text: approx.)
+### What's winning
+- FB feed: Hawk Creates "I built a secret underground house hidden beneath a mangrove from scratch!" ~2.8M likes / 18K comments.
+  Why: "I built X from scratch" + secret/hidden = curiosity + process payoff. GTA angle: "What a secret Vice City hideout would cost to build for real" (Real Cost).
+- FB feed: AI-labelled content keeps getting big numbers (Vishal Kumar AI romance ~505K, KArt creator AI bunny ~135K, Komal AI ~60K). AI label still not suppressing reach on FB.
+- FB "Smartest Workers" (Anaya) ~67K, "4K Explores" Dubai ~505K: satisfying/visual footage + short caption.
+- FB GTA 6 tips search (all < 5 h old): 2RayD "Stop going broke in Leonida — Which tip helped you most?" (warning hook + comment question, same shape as our hook #4);
+  "GTA 6 Tips, Clips and More" page "WHO NEEDS A WEAPON WHEN YOU HAVE BEER?!" 86 reactions in 4 h (funny mechanic discovery).
+  Heidy "GTA 6 MOBILE IS HERE?! How to download & play on mobile" = SCAM BAIT (no mobile version). Do NOT copy; possible debunk Short: "GTA 6 on mobile? It's a scam — here's why".
+- FB GTA 6 search otherwise = tiny (0-14 reactions) fresh clips, incl. AI stickman "GTA 6" animation (madu stikman world). Competition on FB still weak.
+- FB AI niche: "Claude AI Se Video Editing? Without CapCut!" (Amin Sati, 2 days, AI-labelled) — Claude-for-video tutorials are starting to appear in Hindi/Urdu.
+  "Automate AI videos with Google Flow on mobile using Antigravity (free)" (Epictube Sensei, 1 day). Digital Services Program "Claude, Claude Cowork, Claude Code" 18.4K / 2K shares (Jul) = Claude Cowork tutorials pull shares.
+- TikTok FYP: FKLzz "GTA 6 + DLSS 5 + 120 FPS" ~5.4K likes, 905 saves, 2,122 shares (shares > likes/3 = outlier for a small account). GTA 6 has NO PC version yet (PC rumoured Q1 2027),
+  so this is a mod/fake/edit — but "GTA 6 PC / max graphics" curiosity is huge. Safe angle: "When is GTA 6 coming to PC? What we know" (cite sources).
+- TikTok FYP: zoukayzie "+$9708.5 hrs maybe that's what it cost..." 167.6K likes, 26.6K saves — money-number-first caption again wins (supports the big-number rule).
+- TikTok FYP: GOLDMAN e-waste gold recovery 581.9K likes / 68.1K shares — "hidden value in junk" format.
+### Hooks to test next batch
+1. "GTA 6's first patch just changed the graphics — here's what players noticed" (news + before/after cards; cite Notebookcheck/Reddit)
+2. "Stop going broke in Leonida: 3 money mistakes in GTA 6" (warning hook + "which tip helped?" question)
+3. "GTA 6 on mobile? Don't download it — it's a scam" (debunk; protective + high search)
+4. "GTA 6 on PC with DLSS 5? Here's the truth" (PC release status explainer)
+5. "What a secret Vice City hideout would cost in real Miami" (Real Cost, FB-safe, from the 2.8M 'secret house' format)
