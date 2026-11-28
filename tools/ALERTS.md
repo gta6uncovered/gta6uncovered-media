@@ -7,7 +7,7 @@
 - Fix: you create a free YouTube Data API key (Google Cloud console > APIs > "YouTube Data API v3" > Credentials > API key).
   It gives 10,000 free units/day and one stats read costs 1 unit (https://developers.google.com/youtube/v3/determine_quota_cost).
   Paste the key in the main chat; we store it as a secret, never in the repo. Windsor (free) for Facebook is still pending too.
-  Until then: YouTube read only every 2-3 days, TikTok not at all.
+  Until then: no paid stats reads (YouTube or TikTok) unless you allow an exception, e.g. one YouTube read every 3 days.
 
 **2. YouTube rule since 1 Oct: narrating trailer footage is NOT "original" for Shorts reach. FYI, no yes needed.**
 - TeamYouTube's "Prioritizing original content on Shorts": re-uploads with nothing added get less reach and no Shorts
