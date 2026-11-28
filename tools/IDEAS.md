@@ -180,3 +180,6 @@ TikTok For You 14 videos. TikTok search blocked AGAIN by slider CAPTCHA (stopped
    is large and competition lower. Source: Kapwing /make-it-global idea. Automate: translate LINES, ef_dora/em_alex voice.
    Impact: a second, cheap reach channel; propose after the 30 Nov decision.
 
+
+## Calendar
+- 1B Followers Summit AI Film Award: SKIPPED 2026 (Mohamed, 29 Nov). Next edition likely opens ~late Sep 2027: start story in Oct 2027. Rules 2027 ed.: 5-7 min, 70% Dreamina Seedance, 16:9 1080p, EN subs, 5 themes.
