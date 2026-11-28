@@ -1,5 +1,31 @@
 # GTA6 Uncovered: alerts for Mohamed (newest first; relayed by the main chat's 12:15 PM UAE check-in)
 
+## 2026-11-28 (daily learning run)
+**1. We are about to go blind on numbers. Needs your YES (5 minutes, free).**
+- What: vidIQ credits are at 25 (they renew 20 Dec). Our rule is no paid calls under 30, so from tomorrow we cannot read
+  YouTube or TikTok stats for 3 weeks. Daily stats have been costing 5-10 credits a day.
+- Fix: you create a free YouTube Data API key (Google Cloud console > APIs > "YouTube Data API v3" > Credentials > API key).
+  It gives 10,000 free units/day and one stats read costs 1 unit (https://developers.google.com/youtube/v3/determine_quota_cost).
+  Paste the key in the main chat; we store it as a secret, never in the repo. Windsor (free) for Facebook is still pending too.
+  Until then: YouTube read only every 2-3 days, TikTok not at all.
+
+**2. YouTube rule since 1 Oct: narrating trailer footage is NOT "original" for Shorts reach. FYI, no yes needed.**
+- TeamYouTube's "Prioritizing original content on Shorts": re-uploads with nothing added get less reach and no Shorts
+  Creator Pool money; template edits and a voice-over that just describes what's on screen don't count as added value
+  (https://ppc.land/re-uploaded-shorts-lose-reach-as-youtube-favours-original-clips/). Most of our news Shorts are exactly that.
+- Fix: every news Short gets one "OUR MATH" card (our own comparison or sum), and own-analysis (Real Cost) goes from
+  1 in 3 to 1 in 2 uploads by 10 Dec. Applied from Monday's batch.
+
+**3. Owner's critique: growth slowed and the batch ignored our own rules.**
+- YouTube +1,511 views today (yesterday +2,472). 012 and 013 shipped at 21 s (rule: 16-18 s), and Real Cost Part 1 went to
+  the weakest YouTube slot (15:00 UTC): 13 views in its first 3 h. Best today: 011 "NO Black Friday deal", 973 views in 17 h.
+- Fix: a pre-draft checklist is now in RUNBOOK (length, Slot B for the strongest video, number/$ hook, our-math card).
+  We also missed Kapwing's free "7 Claude skills for YouTubers" (published 18 Nov) for 10 days; it is now in IDEAS and the
+  radar searches for it daily. No yes needed.
+
+Totals today: YouTube 10,723 public views (+1,511). TikTok not read (credits). FB 4 Reels live, no stats. No failed posts,
+no claims seen. vidIQ credits 25.
+
 ## 2026-11-27 (daily learning run)
 **1. Free fix for our Facebook blind spot. Needs your YES (1 minute, your Facebook login).**
 - What: Windsor.ai's "Facebook Page Insights" connector is in the Claude connector directory. Its Forever Free plan (1 data

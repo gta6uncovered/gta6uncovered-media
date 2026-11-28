@@ -16,7 +16,10 @@
   https://nextbillion.net/news/creators-are-cashing-in-on-a-facebook-renaissance/). Meta paid ~$3B to creators in 2025, ~60% from Reels.
 - Risks: AI labels required; Meta reduces reach for unoriginal/reposted content; Malayalam TTS quality must be checked;
   character consistency across episodes; vendor earnings claims (theprint BrandIt) are sponsored and unverified.
-- TODO before 30 Nov: test 2 Malayalam TTS voices; find 3 more Malayalam AI series pages with view counts.
+- TODO before 30 Nov: find 3 more Malayalam AI series pages with view counts.
+- 28 Nov: Malayalam TTS CONFIRMED: Sarvam Bulbul v3 Malayalam page, voices incl. Shubh, Shreya, Manan, Ishita, Manglish
+  code-switching, Rs 20 per 10K chars, free trial, no card (https://www.sarvam.ai/apis/text-to-speech/malayalam).
+  A 30 s episode (~400 chars) = ~Rs 0.80. TTS cost is negligible; image-to-video (~$55-80/month) is the real cost.
 - 26 Nov: TTS cost: Sarvam Bulbul v4 Flash INR 2 per 1,000 chars (v3 INR 3), INR 100 free credits on signup
   (https://docs.sarvam.ai/api-reference-docs/getting-started/pricing). A 30 s Malayalam script (~400 chars) = ~INR 0.80. Malayalam
   support not stated on the pricing page: confirm on the Bulbul model page before proposing. Kokoro has no Malayalam.
@@ -33,19 +36,6 @@
   Mark Tilbury "GTA 6 saves you $5,000" went viral (beebom, Insider Gaming).
 - Pro: long-form earns watch hours toward the doubled YPP bar; personal-finance angle has far higher RPM than gaming.
 - Con: could just be our main channel's long-form slot instead of a new channel (one channel compounds faster). Leaning: B goes INTO the main channel.
-
-## 2026-11-25 ideas
-1. Viewer-impact first. Source: our own 010 (1,079 views in 17.5 h, 4x records). Why: it answers "does this affect ME?".
-   Automate: topic filter in the batch script; reject any topic with no wallet/console/decision angle. Impact: ~2-4x views/h.
-2. Weekly long-form Real Cost (6-8 min) stitched from the week's shorts + 3 new segments. Source: YPP 2027 changes
-   (https://blog.youtube/news-and-events/youtube-partner-program-updates-2027-new-opportunities-earn/). Why: Shorts views alone
-   can't reach 20M/90d; watch hours are the only realistic YPP route. Automate: engine.py "long" mode concatenating scripts at 16:9.
-   Impact: starts banking hours; long-form RPM ~10x Shorts.
-3. "30 FPS even on PS5 Pro" debate short. Source: https://kotaku.com/some-players-are-crashing-out-about-gta-6-only-being-30-fps-starfield-got-assaulted-for-being-locked-to-30-fps-2000755892
-   and TechRadar (Rockstar confirmed 30 fps at launch). Why: a real argument people already have, so the question gets comments.
-   Automate: normal pipeline, question "30 locked or 60 blurry?". Impact: first comments.
-4. Pinned-comment keyword CTA "Comment COST for Part 2". Source: Ash and Claude reel (2.5K reactions, ~1K comments, Mohamed 24 Nov).
-   Automate: voiceover line + on-screen text; Part 2 posts within 24 h. Impact: comments from 0 to measurable.
 
 ## 2026-11-26 ideas
 1. "Who they were before GTA 6" series (Jason soldier, Lucia, Cal, Boobie, Brian, Real Dimez...). Source: our 008 = 1,305 views in
@@ -72,19 +62,6 @@
 - Find ANOMALIES: channels under 100K subs with videos at 1M+ views in the last 60 days. That proves the topic and packaging, not channel size.
 - Dissect their top 10 recent videos: core topic, title template, emotional trigger. Then generate our titles on the same proven template (never copy content).
 - Apply in the daily hunt (vidiq_outliers on Sundays; vidiq_youtube_search + views/subs ratio on other days).
-
-## 2026-11-26 — Feed warm-up scan (FB Page, AI/faceless searches)
-- Searched as the Page: AI faceless channel, Claude AI automation, OpusClip AI clips, AI video generator faceless income, GTA 6 viral.
-- Pattern: "income math" hooks ($500 x 7 = $3,500 / x30 = $15,000) on clipping reels (Rashmi Kumari, OpusClip + YT clips). Money-math overlay = strong hook; test "GTA 6 costs you $X/hour" style math.
-- Mr Secret "Bulk AI video generator / consistent characters" (OmniFlash): 413 likes / 848 comments → comment-for-link bait drives comments 2x likes. Test a "comment GTA for the full list" CTA on FB (no external link promises).
-- GTA 6 viral reels: price ($80) / "buying GTA 6" reactions and GTA-V "clipping moment" pages are posting daily. Price/affordability debate = our winning "viewer-impact" angle.
-- Next nightly automated scan: trig_01X7UqiqTxFp5ENd6FDpcZA9 (21:41 UAE, read-only, his Chrome).
-
-## 2026-11-26 — TikTok warm-up scan (logged in on Chrome "Browser 2")
-- Searched: AI faceless channel, AI video automation, Claude AI, GTA 6.
-- GTA 6 top videos right now (1 day old) are in-game gameplay tricks/strats: "infinite food strat" 377.8K likes, stunts 164.7K, "biggest bank robbery 130K" 64.7K, "Ultimate Edition worth the wait" 93K. Post-launch (19 Nov) demand has moved to "how to / strat / money" tips.
-- Action: test text-card "GTA 6 money/strat" Shorts built from published guides (with a cited source, no reused gameplay footage). Gameplay footage would need our own capture (we have no console), so keep away from reused-content risk.
-- AI niche: "Comment 'edit' to get…" CTA (Kevin Dang 18.6K) again confirms comment-bait CTAs.
 
 ## 2026-11-27 — Nightly read-only scan (FB Page + TikTok, Browser 2)
 Coverage: FB Reels feed ~12 reels; FB video search x5 (GTA 6, GTA 6 tips, AI faceless channel, AI video automation, Claude AI automation);
@@ -163,3 +140,43 @@ TikTok For You 14 videos. TikTok search blocked AGAIN by slider CAPTCHA (stopped
 3. "GTA 6 on mobile? Don't download it — it's a scam" (debunk; protective + high search)
 4. "GTA 6 on PC with DLSS 5? Here's the truth" (PC release status explainer)
 5. "What a secret Vice City hideout would cost in real Miami" (Real Cost, FB-safe, from the 2.8M 'secret house' format)
+
+## Radar 2026-11-28
+- Kapwing "7 Best Claude Skills for YouTubers" (18 Nov, free ZIPs): /outliers (uses vidIQ), /youtube-script-researcher,
+  /footage-check, /kai-rough-cut, /packaging (25-point title+thumbnail check), /upload-pack (SEO, chapters, SRT, pinned
+  comment), /community-post; bonus /make-it-global (translate + dub). Source:
+  https://www.kapwing.com/resources/best-claude-skills-for-youtubers/ . Real: yes, SKILL.md files; some need Kapwing or
+  vidIQ credits. Cost: $0 to read. Fit: HIGH for /packaging + /upload-pack logic (we can copy the checklists into our own
+  pipeline, no credits); /make-it-global = cheap route to Spanish/Portuguese GTA Shorts later. Action: next batch run
+  downloads the ZIP into scratch, reads it (third-party code: read only, never run), ports the packaging checklist.
+- "AI Producer by OpusClip" connector is in the Claude directory (separate from the OpusClip clips connector): AI editing
+  tools build_captions, find_broll, enhance_voice, frame_speaker. Fit: MEDIUM; our engine already does captions/B-roll.
+  Only matters for Candidate C. No action until C is approved.
+- YouTube Shorts originality (1 Oct 2026, TeamYouTube "Prioritizing original content on Shorts"): re-uploads with nothing
+  added get less reach and are excluded from the Shorts Creator Pool; template edits and voice-over describing on-screen
+  action are not "original" (https://ppc.land/re-uploaded-shorts-lose-reach-as-youtube-favours-original-clips/). Fit:
+  direct risk to our trailer-narration Shorts. Action: own-analysis share to >= 1 in 2 by 10 Dec (see ALERTS).
+- Free stats route: YouTube Data API v3 = 10,000 quota units/day free, videos.list costs 1 unit
+  (https://developers.google.com/youtube/v3/determine_quota_cost). One API key (Mohamed, Google Cloud console, 5 min)
+  replaces all paid vidIQ stats calls. Windsor.ai free plan still the FB route (directory: "Windsor.ai for Social Media").
+- Content Rewards discover page: blocked again (2nd day). OpusClip's own article (updated 22 Nov): payouts only after review
+  (~72 h) and a minimum view threshold, bot score on every submission, payout trouble in non-Stripe countries
+  (https://www.opus.pro/blog/content-rewards). UAE is a Stripe country, so payout should work; verify in Whop settings.
+- No new Facebook monetization changes found this week; YPP 2027 doubling (1 Feb) unchanged.
+
+## 2026-11-28 ideas
+1. Pre-draft checklist in RUNBOOK (length <= 18 s, strongest video at Slot B, title has number/$/twist, own-analysis
+   flag). Source: 012/013 shipped at 21 s and RC at Slot C despite written lessons. Automate: engine.py prints PASS/FAIL;
+   batch refuses to draft a FAIL. Impact: stops repeating known mistakes.
+2. "Add-value" Short format for news: every news Short gets one own-made comparison card (e.g. "30 FPS = 33 ms per frame vs
+   17 ms at 60", or a cost-per-hour sum) so the video is analysis, not narration. Source: YT 1 Oct originality
+   rule. Automate: CARDS template "OUR MATH". Impact: protects Shorts reach and the channel's YPP review.
+3. Price/wallet series in the 011 shape: "GTA 6 costs you $X per hour played", "Ultimate Edition: $20 for what?",
+   "Series S owners: the $X upgrade question". Source: 011 = 57/h, 012 = 30/h + best engagement. Impact: our best
+   repeatable hook family; FB-safe when it is our own math.
+4. Free stats pipeline: a 30-line script calling YouTube Data API videos.list for all our IDs, run by every learning task
+   at 0 credits. Needs the API key. Impact: saves ~150 credits/month for discovery calls.
+5. Spanish GTA Shorts (second-language test) with the same engine: Kokoro has Spanish voices; GTA audience in LatAm/Spain
+   is large and competition lower. Source: Kapwing /make-it-global idea. Automate: translate LINES, ef_dora/em_alex voice.
+   Impact: a second, cheap reach channel; propose after the 30 Nov decision.
+

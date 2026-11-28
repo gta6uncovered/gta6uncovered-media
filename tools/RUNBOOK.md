@@ -112,3 +112,13 @@ The main chat's daily 12:15 PM UAE check-in relays the batch to him, collects "a
 ## Facebook content rule (approved by Mohamed 27 Nov 2026)
 - Facebook Page gets ONLY Real Cost / own-analysis Reels. No narrated news/sales/record videos on FB (Meta originality rule).
 - 005 FB reel went out 27 Nov 15:00Z before his "remove" reply was acted on (reply came after the slot). Lesson: any decision touching a same-day slot must be asked >=6 h before the slot, and the check-in must re-check the clock before acting.
+
+## Pre-draft checklist (added 28 Nov 2026; every batch must tick all before creating drafts)
+- [ ] Every Short renders at 16-18 s (hard max 19 s). Re-cut, don't ship 21 s.
+- [ ] Each day's strongest video (biggest number / twist / Real Cost test) sits at Slot B (01:00 UTC).
+- [ ] Every title carries a number >= 1M, a $ figure, or a one-word twist.
+- [ ] Every news Short has one "OUR MATH" card (our own comparison or sum), not only narration over trailer footage
+      (YouTube Shorts originality rule, 1 Oct 2026).
+- [ ] At least half of the batch is own analysis (Real Cost / our math) by 10 Dec.
+- [ ] Facebook destination only on Real Cost / own-analysis videos.
+
